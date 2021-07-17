@@ -1,3 +1,3 @@
 # Table of contents
-* [Welcome to POA](README.md)
+* [Bienvenido a Latam-Blockchain](README.md)
 
