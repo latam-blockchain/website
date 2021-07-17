@@ -1,7 +1,7 @@
 ---
 description: >-
   Latam-Blockchain es la primera cadena de bloques EVM (Maquina Virtual de Ethereum) con USDT como moneda nativa, enfocada en
-  el desarrollo de productos para el ecosistema de activos digitales del mercado Latino Americano
+  el mercado Latino Americano
 ---
 
 # Bienvenidos a Latam Blockchain
