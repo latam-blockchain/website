@@ -11,7 +11,7 @@ en pro de inpulsar el desarrollo de soluciones nativas en la region, dichos miem
 tecnologico-financiero. Este grupo distribuido de validadores permite a la red realizar transacciones inmediatas y a bajo costo.   
 
 
-Como organizacion Latam-Blockchain promueve el desarrollo del sector tecnologico-financiero con el estudio de soluciones con cadenas de bloques para Activos Digitales de Bancos Centrales y Activos digitales personalizados[locha-usd](https://locha-usd.github.io/).
+Como organizacion Latam-Blockchain promueve el desarrollo del sector tecnologico-financiero con el estudio de soluciones con cadenas de bloques para Activos Digitales de Bancos Centrales y Activos digitales personalizados [locha-usd](https://locha-usd.github.io/).
 
 Participar con Latam-Blockchain te ayudará a experimentar y crear una aplicación de primera clase en nuestra plataforma. ¡Bienvenido a Latam-Blockchain!
 
