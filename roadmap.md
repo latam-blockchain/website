@@ -9,10 +9,10 @@ description: Hoja de ruta para el 2021-2022
 ## **2021 en Progreso**
 
 {% hint style="info" %}
-Todo el desarrollo en progreso se encuentra en etapa de Investigacion y Desarrollo.
+El desarrollo actual se encuentra en etapa de Investigacion y Desarrollo.
 {% endhint %}
 
-### **Implementacion de la red de prueba(Testnet) "Resil"**
+### **Red de prueba(Testnet) "Resil"**
 
 **Meta:** Q2 2021  
  ✅ **Completado**: Resil Testnet: Jul 18, 2021 Bloque \#32.600
@@ -36,41 +36,51 @@ Para mantener la compatibilidad con la red de Ethereum estan implementados los s
 
 Latam-Blockchain Resil soporta los clientes OpenEthereum(antiguo parity) y Nethermind
 
-### **Repsoitorio publico de la organizacion**
+### **Repsoitorio publico**
 
 **Meta:** Q3 2021
- ☑ **En Progreso:** Reposositorio publico de la organizacion para desarrollo descentralizado y manual de integracion en castellano e ingles
+ ☑ **En Progreso:** Repositorio publico de la organizacion para desarrollo descentralizado y manual de integracion en castellano e ingles
 {% embed url="https://github.com/latam-blockchain" %}
 
 ### **Explorador de Bloques**
 
 **Meta:** Q3 2021
- ☑ **En Progreso:** Implementar un explorador de bloques y APIs de servicio para redes EVM de la red Resil
+ ☑ **En Progreso:** Explorador de bloques y APIs de servicio para redes EVM
 {% embed url="https://explorer.latam-blockchain.com/" %}
 
-### **Resil Faucet**
+### **Faucet**
 
 **Meta:** Q3 2021
  ☑ **En Progreso:** Implementacion de una plataforma para distribuir monedas gratiutas para poder interactuar (como usuario o como desarrollador) con la red de prueba Resil.
 
-### Migracion del cliente OpenEthereum a Nethermind
+### **Migracion del cliente OpenEthereum a Nethermind**
 
 **Meta:** Q3 2021  
-☑ **En Progreso:** Todos los validadores en la red Resil deben usar el cliente Nethermind en remplazo de OpenEthereum. 
+☑ **En Progreso:** Todos los validadores en la red deben usar el cliente Nethermind en remplazo de OpenEthereum. 
 
 {% embed url="https://medium.com/openethereum/gnosis-joins-erigon-formerly-turbo-geth-to-release-next-gen-ethereum-client-c6708dd06dd" %}
 
-
-### **AMB/TokenBridge entre USDT en Ethereum y Resil erc20-erc20 o erc20-token nativo o de sistema**
+### **Protocolo de validadores y recompenza de bloques**
 
 **Meta:** Q4 2021
+Diseño e implementacion del protocolo de los validadores y recompenza de bloque que permita el modelo de subasta de los nodos federados via NTFs en la red de ethereum.
 
-Para lograr interoperatividad entre Ethereum y Latam-Blockchain Resil y usar USDT como token del sistema es necesario rediseñar e implementar AMB y TokenBridge para permitir transacciones intercadenas del token del sistema en Resil, de tal manera el token principal de la red contara con la liquidez existente en la cadena externa.
+
+### **Subasta publica**
+
+En pro de garantizar la descentralizacion y capitalizar este desarrollo se llevara a cabo una subasta publica del 70% de los nodos federados via NTFs en la red de Ethereum, los tenedores de dichos NTFs pasaran a ser miembros de la red federada como validadores con todas las atribuciones y beneficios de tal rol. 
+**Meta:** Q4 2021
+
+
+### **USDT como moneda nativa o de sistema**
+
+**Meta:** Q4 2021
+Para lograr interoperatividad entre Ethereum y Latam-Blockchain e integrar USDT como token nativo del sistema es necesario rediseñar e implementar AMB y TokenBridge para permitir transacciones intercadenas y usar USDT como moneda nativa de tal manera el token principal de la red cuente con la liquidez existente de USDT en la(s) cadena(s) externa(s).
 
 ## **2022**
 
 ### **Red comercial "Core"**
 
-**Target:** Q1 2022  
+**Meta:** Q1 2022  
 
 
