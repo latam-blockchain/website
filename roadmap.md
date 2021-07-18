@@ -51,7 +51,7 @@ Latam-Blockchain Resil soporta los clientes OpenEthereum(antiguo parity) y Nethe
 ### **Faucet**
 
  **Meta:** Q3 2021
-☑ **En Progreso:** Implementacion de una plataforma para distribuir monedas gratiutas para poder interactuar (como usuario o como desarrollador) con la red de prueba Resil.
+☑**En Progreso:** Implementacion de una plataforma para distribuir monedas gratiutas para poder interactuar (como usuario o como desarrollador) con la red de prueba Resil.
 
 ### **Migracion del cliente OpenEthereum a Nethermind**
 
