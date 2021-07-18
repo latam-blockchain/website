@@ -19,27 +19,14 @@ El desarrollo actual se encuentra en etapa de Investigacion y Desarrollo.
 
 Para mantener la compatibilidad con la red de Ethereum estan implementados los siguientes EIPs:
 
-140
-211
-214
-658
-145
-1014
-1052
-1283
-1344
-1706
-1884
-2028
-2929
-2930
+140 211 214 658 145 1014 1052 1283 1344 1706 1884 2028 2929 2930
 
 Latam-Blockchain Resil soporta los clientes OpenEthereum(antiguo parity) y Nethermind
 
 ### **Repositorio publico**
 
- **Meta:** Q3 2021
-☑ **En Progreso:** Repositorio publico de la organizacion para desarrollo descentralizado y manual de integracion en castellano e ingles
+**Meta:** Q3 2021
+☑**En Progreso:** Repositorio publico de la organizacion para desarrollo descentralizado y manual de integracion en castellano e ingles
 {% embed url="https://github.com/latam-blockchain" %}
 
 ### **Explorador de Bloques**
