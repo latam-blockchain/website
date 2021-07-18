@@ -26,13 +26,13 @@ Latam-Blockchain Resil soporta los clientes OpenEthereum(antiguo parity) y Nethe
 ### **Repositorio publico**
 
 **Meta:** Q3 2021
-:ballot_box_with_check: **En Progreso:** Repositorio publico de la organizacion para desarrollo descentralizado y manual de integracion en castellano e ingles
+****☑**En Progreso:** Repositorio publico de la organizacion para desarrollo descentralizado y manual de integracion en castellano e ingles
 {% embed url="https://github.com/latam-blockchain" %}
 
 ### **Explorador de Bloques**
 
- **Meta:** Q3 2021
-☑ **En Progreso:** Explorador de bloques y APIs de servicio para redes EVM
+**Meta:** Q3 2021
+ ****☑**En Progreso:** Explorador de bloques y APIs de servicio para redes EVM
 {% embed url="https://explorer.latam-blockchain.com/" %}
 
 ### **Faucet**
