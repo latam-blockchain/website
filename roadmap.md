@@ -23,6 +23,11 @@ Para mantener la compatibilidad con la red de Ethereum estan implementados los s
 
 Latam-Blockchain Resil soporta los clientes OpenEthereum(antiguo parity) y Nethermind
 
+### OpenEthereum Deprecation + Nethermind Implementation
+
+ **Target:** Q2-Q3 2021  
+☑ **In Progress:** All Sokol Validators are now running the Nethermind Client. POA core validators are migrating gradually 
+
 ### **Repositorio publico**
 
 **Meta:** Q3 2021
