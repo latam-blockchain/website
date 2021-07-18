@@ -36,7 +36,7 @@ Para mantener la compatibilidad con la red de Ethereum estan implementados los s
 
 Latam-Blockchain Resil soporta los clientes OpenEthereum(antiguo parity) y Nethermind
 
-### **Repsoitorio publico**
+### **Repositorio publico**
 
 **Meta:** Q3 2021
  ☑ **En Progreso:** Repositorio publico de la organizacion para desarrollo descentralizado y manual de integracion en castellano e ingles
@@ -45,18 +45,18 @@ Latam-Blockchain Resil soporta los clientes OpenEthereum(antiguo parity) y Nethe
 ### **Explorador de Bloques**
 
 **Meta:** Q3 2021
- ☑ **En Progreso:** Explorador de bloques y APIs de servicio para redes EVM
+  ☑ **En Progreso:** Explorador de bloques y APIs de servicio para redes EVM
 {% embed url="https://explorer.latam-blockchain.com/" %}
 
 ### **Faucet**
 
 **Meta:** Q3 2021
- ☑ **En Progreso:** Implementacion de una plataforma para distribuir monedas gratiutas para poder interactuar (como usuario o como desarrollador) con la red de prueba Resil.
+  ☑ **En Progreso:** Implementacion de una plataforma para distribuir monedas gratiutas para poder interactuar (como usuario o como desarrollador) con la red de prueba Resil.
 
 ### **Migracion del cliente OpenEthereum a Nethermind**
 
 **Meta:** Q3 2021  
-☑ **En Progreso:** Todos los validadores en la red deben usar el cliente Nethermind en remplazo de OpenEthereum. 
+  ☑ **En Progreso:** Todos los validadores en la red deben usar el cliente Nethermind en remplazo de OpenEthereum. 
 
 {% embed url="https://medium.com/openethereum/gnosis-joins-erigon-formerly-turbo-geth-to-release-next-gen-ethereum-client-c6708dd06dd" %}
 
