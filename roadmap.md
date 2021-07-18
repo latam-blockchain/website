@@ -61,7 +61,7 @@ Latam-Blockchain Resil soporta los clientes OpenEthereum(antiguo parity) y Nethe
 {% embed url="https://medium.com/openethereum/gnosis-joins-erigon-formerly-turbo-geth-to-release-next-gen-ethereum-client-c6708dd06dd" %}
 
 
-### **AMB/TokenBridge entre USDT en Ethereum y Resil erc20-erc20 o erc20-token nativo o de systema**
+### **AMB/TokenBridge entre USDT en Ethereum y Resil erc20-erc20 o erc20-token nativo o de sistema**
 
 **Meta:** Q4 2021
 
