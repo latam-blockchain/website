@@ -12,7 +12,7 @@ description: Hoja de ruta para el 2021-2022
 El desarrollo actual se encuentra en etapa de Investigacion y Desarrollo.
 {% endhint %}
 
-### **Red de prueba(Testnet) Resil**
+### **Red de prueba Resil Testnet**
 
 **Meta:** Q2-2021  
  ✅ **Completado**: Resil Testnet: Jul 18, 2021 Bloque \#32.600
@@ -40,7 +40,8 @@ Latam-Blockchain Resil soporta los clientes OpenEthereum(antiguo parity) y Nethe
 ### **Faucet**
 
  **Meta:** Q3-2021
-☑ **En Progreso:** Implementacion de una plataforma para distribuir monedas gratiutas para poder interactuar (como usuario o como desarrollador) con la red de prueba Resil.
+ ✅ **Completado**: Implementacion de una plataforma para distribuir monedas gratiutas para poder interactuar (como usuario o como desarrollador) con la red de prueba Resil.
+{% embed url="https://faucet.latam-blockchain.com" %}
 
 ### **Migracion del cliente OpenEthereum a Nethermind**
 
@@ -48,6 +49,12 @@ Latam-Blockchain Resil soporta los clientes OpenEthereum(antiguo parity) y Nethe
 ☑ **En Progreso:** Todos los validadores en la red deben usar el cliente Nethermind en remplazo de OpenEthereum. 
 
 {% embed url="https://medium.com/openethereum/gnosis-joins-erigon-formerly-turbo-geth-to-release-next-gen-ethereum-client-c6708dd06dd" %}
+
+### **Prueba de TokenBrige (puente intercadena usdt-native)**
+
+**Meta:** Q4 2021
+Implementar un puente erc20-a-token_nativo desde la red Rinkeby a Resil Testnet, el proposito es probar la interaccion entre las 2 cadenas, Rinkeby USDT erc20 y un erc20 en la red local, no se usara el contrato de BlockReward a este punto, simplemente se usara la funcion mint del erc20 local.
+
 
 ### **Protocolo de validadores y recompenza de bloques**
 
