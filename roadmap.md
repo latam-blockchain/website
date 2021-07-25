@@ -2,9 +2,7 @@
 description: Hoja de ruta para el 2021-2022
 ---
 
-# Hoja de Ruta
-
-## 2021 en Progreso
+# Hoja de Ruta 2021-2022
 
 {% hint style="info" %}
 El desarrollo en progreso se encuentra en etapa de Investigacion y Desarrollo.
@@ -15,13 +13,14 @@ El desarrollo en progreso se encuentra en etapa de Investigacion y Desarrollo.
 🎯 **Target Date**: Q1 2021  
   **✅Status:** MVP Complete. Additions and improvements ongoing. 
 
-### Repositorio publico
+## Repositorio publico
 
 🎯 **Meta:** Q2-2021
  **✅Completado:** Repositorio publico de la organizacion para desarrollo descentralizado y manual de integracion en castellano e ingles.
+
 {% embed url="https://github.com/latam-blockchain" %}
 
-### **Red de prueba Resil Testnet**
+## **Red de prueba Resil Testnet**
 
 🎯**Meta:** Q2-2021
  **✅Completado:** Resil Testnet: Jul 18, 2021 Bloque \#32.600.
