@@ -10,6 +10,11 @@ description: Hoja de ruta para el 2021-2022
 El desarrollo en progreso se encuentra en etapa de Investigacion y Desarrollo.
 {% endhint %}
 
+## EasyStaking, POSDAO and Liquidity Pool Analytics
+
+🎯 **Target Date**: Q1 2021  
+  **✅Status:** MVP Complete. Additions and improvements ongoing. 
+
 ### Repositorio publico
 
  🎯 **Meta:** Q2-2021
