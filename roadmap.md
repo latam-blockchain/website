@@ -14,7 +14,7 @@ El desarrollo en progreso se encuentra en etapa de Investigacion y Desarrollo.
   **✅Completado:** Repositorio publico de la organizacion para desarrollo descentralizado y manual de integracion en castellano e ingles. 
 {% embed url="https://github.com/latam-blockchain" %}
 
-## **Red de prueba Resil Testnet**
+## Red de prueba Resil Testnet
 
 🎯 **Meta**: Q2-2021
  **✅Completado:** Resil Testnet: Jul 18, 2021 Bloque \#32.600.
