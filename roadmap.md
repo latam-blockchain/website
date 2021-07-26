@@ -10,8 +10,9 @@ El desarrollo en progreso se encuentra en etapa de Investigacion y Desarrollo.
 
 ## Repositorio Publico
 
-🎯 **Meta**: Q2 2021  
-  **✅Completado:** Repositorio publico de la organizacion para desarrollo descentralizado y manual de integracion en castellano e ingles. 
+🎯 **Meta**: Q2 2021 **Estado:** **✅Completado** 
+
+Repositorio publico de la organizacion para desarrollo descentralizado y manual de integracion en castellano e ingles. 
 {% embed url="https://github.com/latam-blockchain" %}
 
 ## Red de prueba Resil Testnet
