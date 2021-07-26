@@ -15,7 +15,7 @@ El desarrollo en progreso se encuentra en etapa de Investigacion y Desarrollo.
 Repositorio publico de la organizacion para desarrollo descentralizado y manual de integracion en castellano e ingles. 
 {% embed url="https://github.com/latam-blockchain" %}
 
-## **Red de prueba Resil Testnet**
+## Red de prueba Resil Testnet
 
 🎯 **Meta:** Q2 2021 **✅ Completado**  
 
@@ -29,14 +29,14 @@ Latam-Blockchain Resil soporta los clientes OpenEthereum(antiguo parity) y Nethe
 
 🎯 **Meta:** Q3-2021 **✅ Completado**    
 
-Explorador de bloques y APIs de servicio y herrmaientas de analisis para la red Resil Testnet.
+Explorador de bloques, APIs de servicio y herrmaientas de analisis para la red Resil Testnet.
 {% embed url="https://explorer.latam-blockchain.com/" %}
 
 ## Faucet
 
-🎯 **Meta:** Q3-2021 ** ✅ Completado**   
+🎯 **Meta:** Q3-2021 **✅ Completado**   
 
-Implementacion de una plataforma para distribuir monedas gratiutas para poder interactuar (como usuario o como desarrollador) con la red de prueba Resil.
+Plataforma para distribuir monedas gratiutas para poder interactuar (como usuario o como desarrollador) en la red de prueba Resil.
 {% embed url="https://faucet.latam-blockchain.com" %}
 
 
