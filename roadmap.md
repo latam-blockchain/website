@@ -39,6 +39,13 @@ Explorador de bloques, APIs de servicio y herrmaientas de analisis para la red R
 Plataforma para distribuir monedas gratiutas para poder interactuar (como usuario o como desarrollador) en la red de prueba Resil.
 {% embed url="https://faucet.latam-blockchain.com" %}
 
+## **Migracion al cliente Nethermind**
+
+🎯 **Meta:** Q3 2021 **☑ En Progreso:**   
+
+Todos los validadores en la red deben usar el cliente Nethermind en remplazo de OpenEthereum en referencia a:
+{% embed url="https://medium.com/openethereum/gnosis-joins-erigon-formerly-turbo-geth-to-release-next-gen-ethereum-client-c6708dd06dd" %}
+
 
 
 
