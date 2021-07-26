@@ -10,7 +10,7 @@ Todo el desarrollo aquí descrito se encuentra en etapa de investigación & desa
 
 ## Repositorio Publico
 
-🎯 **Meta**: Q2 2021 **✅ Completado**
+🎯 **Meta**: Q2 2021 ✅ **Completado**
 
 Repositorio publico de la organización para desarrollo descentralizado y manual de integración en castellano e ingles.
 
@@ -18,7 +18,7 @@ Repositorio publico de la organización para desarrollo descentralizado y manual
 
 ## Red de prueba Resil Testnet
 
-🎯 **Meta:** Q2 2021 **✅ Completado**
+🎯 **Meta:** Q2 2021 ✅ **Completado**
 
 Resil Testnet Jul 18, 2021 Bloque \#32.600.
 
@@ -28,7 +28,7 @@ Latam-Blockchain Resil soporta los clientes OpenEthereum\(antiguo Parity\) y Net
 
 ## Explorador de Bloques
 
-🎯 **Meta:** Q3 2021 **✅ Completado**
+🎯 **Meta:** Q3 2021  ****✅ **Completado**
 
 Explorador de bloques, APIs de servicio y herramientas de análisis para la red Resil Testnet.
 
@@ -36,7 +36,7 @@ Explorador de bloques, APIs de servicio y herramientas de análisis para la red 
 
 ## Faucet
 
-🎯 **Meta:** Q3 2021 **✅ Completado**
+🎯 **Meta:** Q3 2021 ✅ **Completado**
 
 Plataforma para distribuir monedas gratuitas para poder interactuar \(como usuario o como desarrollador\) en la red de prueba Resil.
 
