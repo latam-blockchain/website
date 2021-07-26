@@ -46,7 +46,7 @@ Plataforma para distribuir monedas gratiutas para poder interactuar (como usuari
 Todos los validadores en la red deben usar el cliente Nethermind en remplazo de OpenEthereum en referencia a:
 {% embed url="https://medium.com/openethereum/gnosis-joins-erigon-formerly-turbo-geth-to-release-next-gen-ethereum-client-c6708dd06dd" %}
 
-## **destinatario de recompenza de bloque dinamico**
+## **Destinatario de recompenza de bloque dinamico**
 
 🎯 **Meta:** Q3 2021  ☑  **En progreso**
 
