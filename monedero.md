@@ -9,7 +9,25 @@ Si necesitas mas información de como instalar MetaMask y crear tu primer monede
 
 {% embed url="https://www.youtube.com/watch?v=1GPKs8XbGbc" caption="" %}
 
-## Configuración de la red Resil
+## Configuración manual de la red Resil en el monedero MetaMask
 
-1 \) Una vez instalado y con tu monedero creado abre el MetaMask y selecciona "RPC personalizado" en el menú desplegable de red.
+1 \) Abrir y desbloquear el MetaMask
+2 \) En menu desplegable hacer clic en "Settings"
+{% hint style="warning" %}
+**si estas usando MetaMask desde el computador "Settings" se encuentra haciendo clic en la imagen circular en la parte superior derecha
+si estas usando MetaMask desde tu dispositivo movil "Settings" se encuentra en el menu desplegable en la parte superior izquierda**
+{% endhint %}
+
+3 \) Hacer clic en "Networks"
+4 \) Hacer clie en "Add Network"
+5 \) Agregar la siguiente informacion de la red:
+  * _Network Name_                  : Resil Testnet
+  * _New RPC URL_                   : https://rpc.latam-blockchain.com
+  * _Chain ID_                      : 172
+  * _Currency Symbol (optional)_    : USD
+  * _Block Explorer URL (optional)_ : https://explorer.latam-blockchain.com
+6 \) Hacer clic en "Save"
+
+
+## Configuración automatica de la red Resil en el monedero MetaMask
 
