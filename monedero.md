@@ -27,11 +27,11 @@ Si necesitas mas información de como instalar MetaMask y crear tu primer monede
 
 5 \) Agregar la siguiente informacion de la red:
 
-  * _Network Name       :_ Resil Testnet
-  * _New RPC URL        :_ https://rpc.latam-blockchain.com
-  * _Chain ID           :_ 172
-  * _Currency Symbol    :_ USD
-  * _Block Explorer URL :_ https://explorer.latam-blockchain.com
+  * _Network Name:_       Resil Testnet
+  * _New RPC URL:_        https://rpc.latam-blockchain.com
+  * _Chain ID:_              172
+  * _Currency Symbol:_    USD
+  * _Block Explorer URL:_ https://explorer.latam-blockchain.com
 
 6 \) Hacer clic en "Save"
 
