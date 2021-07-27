@@ -9,7 +9,7 @@ Si necesitas mas información de como instalar MetaMask y crear tu primer monede
 
 {% embed url="https://www.youtube.com/watch?v=1GPKs8XbGbc" caption="" %}
 
-## Configuración manual de la red Resil en el monedero MetaMask
+## Configuración manual
 
 1 \) Abrir y desbloquear el MetaMask  
 
@@ -36,5 +36,5 @@ Si necesitas mas información de como instalar MetaMask y crear tu primer monede
 6 \) Hacer clic en "Save"
 
 
-## Configuración automatica de la red Resil en el monedero MetaMask
+## Configuración automatica 
 
