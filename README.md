@@ -1,7 +1,7 @@
 ---
 description: >-
-  Latam-Blockchain Resil es la primera cadena de bloques EVM (Maquina Virtual de
-  Ethereum) con USDT como moneda nativa, enfocada en el mercado Latino Americano
+  Latam-Blockchain Resil es la primera red y cadena de bloques EVM (Maquina Virtual de
+  Ethereum) con $ US Dolar como moneda nativa y enfocada en el mercado Latino Americano
 ---
 
 # Bienvenido a Latam-Blockchain
@@ -19,7 +19,7 @@ Participar en la red Resil de Latam-Blockchain te ayudará a experimentar y crea
 * ✅Red, cadena de bloques y protocolo ajustado a las necesidades de la región.
 * ✅Confirmación de transacciones de \(5 segundos\).
 * ✅Impuesto de transaccional de \($ 0.005\).
-* ✅Dinero digital. Una cadena con $ USD dolar como moneda nativa es ideal para aplicaciones de intercambio de valor.
+* ✅Dinero digital. Una cadena con $ US Dolar como moneda nativa es ideal para aplicaciones de intercambio de valor.
 * ✅Cadena de bloques eficiente y compatible con el ahorro energético.
 * ✅Acceso a los mercados internacionales y liquidez a través de USDT\(Tether\) en todas sus cadenas & redes.
 * ✅Mecanismo de consenso de Prueba de Autoridad permite distribuir la federación de la red globalmente. 
