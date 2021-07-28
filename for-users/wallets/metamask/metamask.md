@@ -38,3 +38,12 @@ Si necesitas mas información de como instalar MetaMask y crear tu primer monede
 
 ## Configuración automatica 
 
+__WIP__
+
+## Obtener Monedas de prueba
+
+__WIP__
+
+## Agregar Tokens
+
+__WIP__
