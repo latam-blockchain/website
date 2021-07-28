@@ -1,7 +1,7 @@
 ---
 description: >-
   Latam-Blockchain Resil es la primera red y cadena de bloques EVM (Maquina Virtual de
-  Ethereum) con $ US Dolar como moneda nativa y enfocada en el mercado Latino Americano
+  Ethereum) con USDT(Tether) como moneda nativa y enfocada en el mercado Latino Americano
 ---
 
 # Bienvenido a Latam-Blockchain
