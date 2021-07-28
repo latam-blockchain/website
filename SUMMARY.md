@@ -4,25 +4,25 @@
 
 ## Sobre Latam-Blockchain
 
-* [Caracteristicas](about-us/features.md)
-* [Casos de uso](use-cases/README.md)
-* [Hoja de Ruta](about-us/roadmap.md)
+* [Caracteristicas](sobre-latam-blockchain/features.md)
+* [Casos de uso](sobre-latam-blockchain/use-cases.md)
+* [Hoja de Ruta](sobre-latam-blockchain/roadmap.md)
 
 ## Para Usuarios
 
-* [Monederos](for-users/wallets/README.md)
-  * [Metamask](for-users/wallets/metamask/README.md)
-    * [Instalacion](for-users/wallets/metamask/metamask-install.md)
-    * [Configuracion](for-users/wallets/metamask/metamask-setup.md)
+* [Monederos](para-usuarios/wallets/README.md)
+  * [Metamask](para-usuarios/wallets/metamask/README.md)
+    * [Instalacion](para-usuarios/wallets/metamask/metamask-install.md)
+    * [Configuracion](para-usuarios/wallets/metamask/metamask-setup.md)
 
 ## Para Desarrolladores
 
-* [Recursos y Herramientas](for-developers/developer-resources/README.md)
+* [Recursos y Herramientas](para-desarrolladores/developer-resources.md)
 
 ## Contacto & Medios <a id="media"></a>
 
 * [Equipo de desarrollo](media/dev-team.md)
 * [Redes Sociales & Comunidad](media/social-media.md)
-* [Kit de medios](media/media-kit/README.md)
+* [Kit de medios](media/media-kit.md)
 * [Contacto](media/contact-us.md)
 

@@ -1,4 +1,4 @@
-# Equipo de desarrollo
+# Kit de medios
 
 **Trabajo en progreso** **WIP**
 

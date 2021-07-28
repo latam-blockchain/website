@@ -1,4 +1,4 @@
-# Equipo de desarrollo
+# Recursos y Herramientas
 
 **Trabajo en progreso** **WIP**
 

@@ -2,7 +2,7 @@
 description: Hoja de ruta para el 2021-2022
 ---
 
-# Roadmap - Hoja de Ruta
+# Hoja de Ruta
 
 {% hint style="info" %}
 Todo el desarrollo aquí descrito se encuentra en etapa de investigación & desarrollo y es un trabajo en progreso.
@@ -28,7 +28,7 @@ Latam-Blockchain Resil soporta los clientes OpenEthereum\(antiguo Parity\) y Net
 
 ## Explorador de Bloques
 
-🎯 **Meta:** Q3 2021  ****✅ **Completado**
+🎯 **Meta:** Q3 2021 **\*\*✅** Completado\*\*
 
 Explorador de bloques, APIs de servicio y herramientas de análisis para la red Resil Testnet.
 
@@ -44,7 +44,7 @@ Plataforma para distribuir monedas gratuitas para poder interactuar \(como usuar
 
 ## **Migración al cliente Nethermind**
 
-🎯 **Meta:** Q3 2021  ☑ **En progreso**
+🎯 **Meta:** Q3 2021 ☑ **En progreso**
 
 Todos los validadores en la red deben usar el cliente Nethermind en remplazo de OpenEthereum en referencia a:
 
