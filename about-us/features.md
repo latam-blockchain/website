@@ -14,18 +14,12 @@ La cadena Resil de Latam-Blockchain provee un servicio de utilidad para sus usar
 
 ## Escalabilidad
 
-__WIP__ 
-
 ## Generador de numeros aleatorios on-chain
 
-loterias juegos online . . .
-
-__WIP__
+loterias juegos online 
 
 ## TokenBridges a Ethereum
 
-__WIP__
-
 ### TokenBridges a otras redes
 
-__WIP__
+
