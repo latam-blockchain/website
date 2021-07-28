@@ -2,6 +2,18 @@
 description: Configura tu Metamask para Latam-Blockchain
 ---
 
+
+## Configuracion automatica 
+
+visita [Chainlist](https://chainlist.org/) y has clic en resil para agregar la red de manera automatica.
+
+{% hint style="info" %}
+
+*Este metodo solo funciona para el Metamask en pc
+*Este metodo no agrega el explorador de bloques a tu Metamask
+_WIP_ no usar aun
+{% endhint %}
+
 ## Configuración manual
 
 1 \) Abrir y desbloquear el MetaMask  
@@ -29,3 +41,14 @@ description: Configura tu Metamask para Latam-Blockchain
 6 \) Hacer clic en "Save"
 
 
+## Agregar tokens personalizados
+
+_WIP_
+
+## Conectar con tu Hardware Wallet
+
+_WIP_
+
+## Preguntas Frecuentes
+
+_WIP_
