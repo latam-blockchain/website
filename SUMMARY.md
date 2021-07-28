@@ -5,6 +5,7 @@
 ## Sobre Latam-Blockchain
 
 * [Caracteristicas](about-us/features.md)
+* [Casos de uso](use-cases/README.md)
 * [Hoja de Ruta](about-us/roadmap.md)
 
 ## Para Usuarios
