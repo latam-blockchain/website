@@ -6,7 +6,7 @@ description: 'Caracteristicas que hacen unico, seguro y escalable a Latam-Blockc
 
 ## USD como moneda nativa
 
-Poseer una moneda estable, pegada al valor del $ USD dolar brinda tranquilidad y estabilidad, una moneda predecible permite realizar operaciones eliminado los riesgos asociados a la volatilidad. En la red Resil de Latam-Blockchain las operaciones se realizan con USD que es una moneda estable pegada 1:1 al USDT\(Tether\) que es una moneda pegada al $ USD dolar y con la mayor liquidez de una moneda estable en el ecosistema de activos digitales.
+Poseer una moneda estable, pegada al valor del $ USD dolar brinda tranquilidad y estabilidad, una moneda predecible permite realizar operaciones eliminado los riesgos asociados a la volatilidad. En la red Resil de Latam-Blockchain las operaciones se realizan con USD que es una moneda estable pegada 1:1 al USDT\(Tether\) que cuenta con la mayor liquidez de una moneda digital estable en todo el ecosistema de activos digitales.
 
 ## Red Neutral
 
