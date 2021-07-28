@@ -4,8 +4,8 @@
 
 ## Sobre Latam-Blockchain
 
-* [Caracteristicas](about/features.md)
-* [Hoja de Ruta](about/roadmap.md)
+* [Caracteristicas](about-us/features.md)
+* [Hoja de Ruta](about-us/roadmap.md)
 
 ## Para Usuarios
 
