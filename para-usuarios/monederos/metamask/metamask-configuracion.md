@@ -17,9 +17,9 @@ description: Configura tu Metamask para Latam-Blockchain
 
 
 {% hint style="warning" %}
-\Este método solo funciona para el Metamask en pc
+_Este método solo funciona para el Metamask en pc_
 
-\Este método no agrega el explorador de bloques a tu Metamask
+_Este método no agrega el explorador de bloques a tu Metamask_
 {% endhint %}
 
 ## Configuración manual
@@ -29,9 +29,9 @@ description: Configura tu Metamask para Latam-Blockchain
 2 \) En el menú desplegable hacer clic en "Settings"
 
 {% hint style="info" %}
-_si estas usando MetaMask desde el computador "Settings" se encuentra haciendo clic en la imagen circular en la parte superior derecha_
+_Si estas usando MetaMask desde el computador "Settings" se encuentra haciendo clic en la imagen circular en la parte superior derecha_
 
-_si estas usando MetaMask desde tu dispositivo móvil "Settings" se encuentra en el menú desplegable en la parte superior izquierda_
+_Si estas usando MetaMask desde tu dispositivo móvil "Settings" se encuentra en el menú desplegable en la parte superior izquierda_
 {% endhint %}
 
 3 \) Hacer clic en "Networks"
@@ -52,7 +52,7 @@ _si estas usando MetaMask desde tu dispositivo móvil "Settings" se encuentra en
 
 ## Agregar tokens personalizados
 
-_WIP_
+1 \) Visita 
 
 ## Conectar con tu Hardware Wallet
 
