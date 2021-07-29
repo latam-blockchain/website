@@ -42,6 +42,8 @@ _si estas usando MetaMask desde tu dispositivo móvil "Settings" se encuentra en
 
 6 \) Hacer clic en "Save"
 
+![](../../../.gitbook/assets/metamask_setup.gif)
+
 ## Agregar tokens personalizados
 
 _WIP_

@@ -17,7 +17,7 @@
 
 ## Para Desarrolladores
 
-* [Recursos y Herramientas](para-desarrolladores/rescursos-de-desarrollo.md)
+* [Recursos y Herramientas](para-desarrolladores/recursos-y-herramientas.md)
 
 ## Contacto & Medios <a id="media"></a>
 
