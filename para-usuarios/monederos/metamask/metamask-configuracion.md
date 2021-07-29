@@ -17,11 +17,9 @@ description: Configura tu Metamask para Latam-Blockchain
 
 
 {% hint style="warning" %}
-\*Este método solo funciona para el Metamask en pc
+\Este método solo funciona para el Metamask en pc
 
-\*Este método no agrega el explorador de bloques a tu Metamask
-
-\*_WIP_ agregar el botón aquí directamente!
+\Este método no agrega el explorador de bloques a tu Metamask
 {% endhint %}
 
 ## Configuración manual
