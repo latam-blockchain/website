@@ -1,5 +1,5 @@
 ---
-description: El monedero web3 por defecto
+description: Metamask el monedero web3 por defecto
 ---
 
 # Monedero - Billetera
