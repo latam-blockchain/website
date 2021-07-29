@@ -10,9 +10,9 @@
 
 ## Para Usuarios
 
-* [Monedero - Billetera](para-usuarios/monederos/metamask/README.md)
-  * [Instalacion](para-usuarios/monederos/metamask/metamask-instalacion.md)
-  * [Configuracion](para-usuarios/monederos/metamask/metamask-configuracion.md)
+* [Monedero - Billetera](para-usuarios/metamask/README.md)
+  * [Instalacion](para-usuarios/metamask/metamask-instalacion.md)
+  * [Configuracion](para-usuarios/metamask/metamask-configuracion.md)
 
 ## Para Desarrolladores
 

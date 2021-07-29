@@ -4,17 +4,15 @@ description: Configura tu Metamask para Latam-Blockchain
 
 # Configuracion
 
-## Configuración automatica
+## Configuración automática
 
-1 \) Visita [Chainlist](https://chainlist.org/) 
+1 \) Visita [Chainlist](https://chainlist.org/)
 
 2 \) Busca _Resil_ en el campo "Search Networks"
 
 3 \) En la red _Resil_ has clic "Connect Wallet" y luego en "Add To Metamask"
 
 4 \) El el Metamask has clic en "Approve" y luego en "Switch network"
-
-
 
 {% hint style="warning" %}
 _Este método solo funciona para el Metamask en pc_
@@ -48,11 +46,11 @@ _Si estas usando MetaMask desde tu dispositivo móvil "Settings" se encuentra en
 
 6 \) Hacer clic en "Save"
 
-![](../../../.gitbook/assets/metamask_setup.gif)
+![](../../.gitbook/assets/metamask_setup.gif)
 
 ## Agregar tokens personalizados
 
-1 \) Visita 
+1 \) Visita
 
 ## Conectar con tu Hardware Wallet
 
