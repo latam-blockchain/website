@@ -1,7 +1,7 @@
 ---
 description: >-
   Latam-Blockchain Resil es la primera red y cadena de bloques EVM (Maquina
-  Virtual de Ethereum) con USDT(Tether) como moneda nativa y enfocada en el
+  Virtual de Ethereum) con USDT(Tether) como moneda del sistema y enfocada en el
   mercado Latino Americano
 ---
 
@@ -17,20 +17,20 @@ Participar en la red Resil de Latam-Blockchain te ayudará a experimentar y crea
 
 ## **Porque Latam-Blockchain?**
 
-* ✅Red, cadena de bloques y protocolo ajustado a las necesidades de la región.
-* ✅Confirmación de transacciones de \(5 segundos\).
-* ✅Impuesto transaccional de \($ 0.005\).
-* ✅Dinero digital. Una cadena con USDT\(Tether\) como moneda del sistema es ideal para aplicaciones de intercambio de valor.
-* ✅Cadena de bloques eficiente y compatible con el ahorro energético.
-* ✅Acceso a los mercados internacionales y liquidez a través de USDT\(Tether\) en todas sus cadenas & redes.
-* ✅Mecanismo de consenso de Prueba de Autoridad permite distribuir la federación de la red globalmente. 
-* ✅Compatible con contratos inteligentes de Ethereum y demás cadenas _EVM_.
-* ✅Soporte en castellano y equipo de desarrollo local.
-* ✅Desarrollo basado a partir de proyectos solidos y estables como:
+* ✅ Red, cadena de bloques y protocolo ajustado a las necesidades de la región.
+* ✅ Confirmación de transacciones de \(5 segundos\).
+* ✅ Impuesto transaccional de \($ 0.005\).
+* ✅ Dinero digital. Una cadena con USDT\(Tether\) como moneda del sistema es ideal para aplicaciones de intercambio de valor.
+* ✅ Cadena de bloques eficiente y compatible con el ahorro energético.
+* ✅ Acceso a los mercados internacionales y liquidez a través de USDT\(Tether\) en todas sus cadenas & redes.
+* ✅ Mecanismo de consenso de Prueba de Autoridad permite distribuir la federación de la red globalmente. 
+* ✅ Compatible con contratos inteligentes de Ethereum y demás cadenas _EVM_.
+* ✅ Soporte en castellano y equipo de desarrollo local.
+* ✅ Desarrollo basado a partir de proyectos solidos y estables como:
  * [POA](https://www.poa.network/)
  * [xDai](https://www.xdaichain.com/)
  * [TokenBridge](https://docs.tokenbridge.net/)
- * [Blockchain](https://docs.blockscout.com/)
+ * [Blockscout](https://docs.blockscout.com/)
 
 ## Sobre nuestro Logo
 
