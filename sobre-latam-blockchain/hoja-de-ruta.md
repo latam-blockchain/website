@@ -28,7 +28,7 @@ Latam-Blockchain Resil soporta los clientes OpenEthereum\(antiguo Parity\) y Net
 
 ## Explorador de Bloques
 
-🎯 **Meta:** Q3 2021 **\*\*✅** Completado\*\*
+🎯 **Meta:** Q3 2021 ✅ **Completado**
 
 Explorador de bloques, APIs de servicio y herramientas de análisis para la red Resil Testnet.
 
