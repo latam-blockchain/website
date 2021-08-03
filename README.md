@@ -19,7 +19,7 @@ Participar en la red Resil de Latam-Blockchain te ayudará a experimentar y crea
 
 * ✅ Red, cadena de bloques y protocolo ajustado a las necesidades de la región.
 * ✅ Confirmación de transacciones de \(5 segundos\).
-* ✅ Impuesto transaccional de \($ 0.005\).
+* ✅ Impuesto transaccional de \(~$ 0.0002\).
 * ✅ Dinero digital. Una cadena con USDT\(Tether\) como moneda del sistema es ideal para aplicaciones de intercambio de valor.
 * ✅ Cadena de bloques eficiente y compatible con el ahorro energético.
 * ✅ Acceso a los mercados internacionales y liquidez a través de USDT\(Tether\) en todas sus cadenas & redes.
