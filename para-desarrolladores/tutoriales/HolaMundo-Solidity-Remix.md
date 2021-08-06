@@ -15,7 +15,7 @@
 
 ### Estructura del contrato:
 ```
-pragma contract ^5.0.0
+<version del compilador>
  
 contract NombreDelContrato{
  
