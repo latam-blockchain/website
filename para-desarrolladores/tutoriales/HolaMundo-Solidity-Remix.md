@@ -53,7 +53,9 @@ bool, integer (int8-int256/uint8-uint256), address, bytes, string, hex and enum
 
 ```
 *[mas sobre las funciones](https://docs.soliditylang.org/en/v0.7.0/contracts.html#functions)
+
 *[mas sobre la visibilidad](https://docs.soliditylang.org/en/v0.7.0/contracts.html#visibility-and-getters)
+
 *[mas sobre los tipos de variable](https://docs.soliditylang.org/en/v0.7.0/types.html#value-types)
 
 ## Tu primer contrato inteligente [HolaMundo.sol](https://github.com/latam-blockchain/tutoriales/blob/master/remix/contracts/HolaMundo.sol)
