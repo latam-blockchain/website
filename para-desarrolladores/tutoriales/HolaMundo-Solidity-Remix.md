@@ -128,7 +128,7 @@ function ConcatenarTexto(string memory _base, string memory _value) internal pur
 
 2 \) Clic en `Create New File` y creas el archivo `HolaMundo.sol`
 
-![remix-compile-0](.gitbook/assets/remix_compile_0.png)
+![remix-compile-0](../../.gitbook/assets/remix_compile_0.png)
 
 3 \) Copias el codigo del contrato y lo pegas en el archivo creado
 
