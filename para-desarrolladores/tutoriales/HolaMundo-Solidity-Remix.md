@@ -126,7 +126,7 @@ function ConcatenarTexto(string memory _base, string memory _value) internal pur
 
 2 \) Clic en `Create New File` y creas el archivo `HolaMundo.sol`
 
-![remix-compile-0](images/remix_compile_0.png)
+![remix-compile-0](.gitbook/assets/remix_compile_0.png)
 
 3 \) Copias el codigo del contrato y lo pegas en el archivo creado
 
@@ -178,12 +178,12 @@ function concatenarTexto(string memory _base, string memory _value) internal pur
 }
 ```
 
-![remix-compile-1](images/remix_compile_1.png)
+![remix-compile-1](.gitbook/assets/remix_compile_1.png)
 
 
 4 \) Clic en _Solidity compiler_ y seleccionas el compilador _0.5.0+..._ del menu desplegable y a continuacion clic en _Compile HolaMundo.sol_ y si no da ningun error ya tu contrato esta compilado.
 
-![remix-compile-2](images/remix_compile_2.png)
+![remix-compile-2](.gitbook/assets/remix_compile_2.png)
 
 
 
@@ -195,13 +195,13 @@ function concatenarTexto(string memory _base, string memory _value) internal pur
 
 3 \) Clic en _Deploy_
 
-![remix-deploy-0](images/remix_deploy_0.png)
+![remix-deploy-0](.gitbook/assets/remix_deploy_0.png)
 
 ### Interactua con el contrato
 
 Una vez desplegado el contrato inteligente hacer clic en el menu _Deployed Contracts_ y podras ver las funciones del contrato
 
-![remix-deploy-1](images/remix_deploy_1.png)
+![remix-deploy-1](.gitbook/assets/remix_deploy_1.png)
 
 
 #### Funcion saludo() 
@@ -212,7 +212,7 @@ Muestra el saludo predeterminado "Hola Mundo" si no se ha modifcado el estado pr
 
 `Llamada a HolaMundo.saludo() -> "Hola Mundo"`
 
-![remix-saludo-0](images/remix_saludo_0.png)
+![remix-saludo-0](.gitbook/assets/remix_saludo_0.png)
  
 #### Funcion almacenarMinombre() 
 
@@ -222,13 +222,13 @@ Modifica el nombre por defecto "Mundo" o el ultimo nombre almacenado y coloca un
 
 `Transaccion a HolaMundo.almacenarMinombre("Ruperto") -> "True"`
 
-![remix-almacenarMinombre-0](images/remix_almacenarMinombre_0.png)
+![remix-almacenarMinombre-0](.gitbook/assets/remix_almacenarMinombre_0.png)
 
 2 \) Clic en _saludo_ para verificar que el estado fue modificado y el mensaje del saludo es ahora personalizado
 
 `Llamada a HolaMundo.saludo() -> "Hola Ruperto"`
 
-![remix-saludo-1](images/remix_saludo_1.png)
+![remix-saludo-1](.gitbook/assets/remix_saludo_1.png)
 
 #### Funcion cuentas()
 
@@ -236,12 +236,12 @@ Muestra el nombre almacenado para una direccion de monedero/cartera en especific
 
 1 \) Copia tu direccion de cartera en el menu _ACCOUNT_  "Copy value to clipboard"
 
-![remix-cuentas-0](images/remix_cuentas_0.png)
+![remix-cuentas-0](.gitbook/assets/remix_cuentas_0.png)
 
 
 2 \) Pegas la cuenta de la cartera/monedero en uso en el campo de _cuentas_ y luego clic en la misma funcion
 
 `Llamada a HolaMundo.cuentas() -> "Ruperto"`
 
-![remix-cuentas-1](images/remix_cuentas_1.png)
+![remix-cuentas-1](.gitbook/assets/remix_cuentas_1.png)
 
