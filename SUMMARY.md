@@ -18,6 +18,7 @@
 
 * [Recursos y Herramientas](para-desarrolladores/recursos-y-herramientas.md)
 * [Tutoriales](para-desarrolladores/tutoriales/)
+
 ## Contacto & Medios <a id="media"></a>
 
 * [Equipo de desarrollo](media/equipo-de-desarrollo.md)
