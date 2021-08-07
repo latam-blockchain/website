@@ -61,12 +61,12 @@ bool, integer (int8-int256/uint8-uint256), address, bytes, string, hex and enum
 ## Tu primer contrato inteligente [HolaMundo.sol](https://github.com/latam-blockchain/tutoriales/blob/master/remix/contracts/HolaMundo.sol)
 
 Version del compilador de solidity a usar.
-```Solidity
+```solidity
 pragma solidity ^0.5.0;
 ```
 
 Estructura basica del contrato que muestra "Hola Mundo" por defecto al llamar a la funcion `saludo()`
-```Solidity
+```solidity
 contract HolaMundo {
 
 string nombrePordefecto;
@@ -84,7 +84,7 @@ function saludo() public view returns(string memory){
 
 
 Funcion `almacenarMinombre()` permite al usuario modificar el nombre a quien va dirigido el saludo.
-```Solidity
+```solidity
 function almacenarMinombre(string memory nombre) public returns(bool success){
     require(bytes(nombre).length > 0);
     cuentas[msg.sender] = nombre;
@@ -93,7 +93,7 @@ function almacenarMinombre(string memory nombre) public returns(bool success){
 ```
 
 Funcion `ConcatenarTexto()` se usa para unir "Hola" + "Nombre del saludo" , ya que en solidity no es posible concatenar textos directamente 'A' + 'B' = 'AB'.
-```Solidity
+```solidity
 function ConcatenarTexto(string memory _base, string memory _value) internal pure returns (string memory) {
         bytes memory _baseBytes = bytes(_base);
         bytes memory _valueBytes = bytes(_value);
