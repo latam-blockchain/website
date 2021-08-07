@@ -1,14 +1,14 @@
 # Mi primer contrato inteligente
 
-## ¿Que voy a aprender aqui?
+## ¿Que voy a aprender aquí?
 
-* Estructura basica de un contrato inteligente en _Solidity_.
-* Un contrato inteligente _HolaMundo.sol_, sus metodos y funciones.
+* Estructura básica de un contrato inteligente en _Solidity_.
+* Un contrato inteligente _HolaMundo.sol_, sus métodos y funciones.
 * _Remix IDE_ para compilar, desplegar e interactuar con tu primer contrato inteligente. 
 
 
 
-## Estructura basica de un contrato inteligente en _Solidity_
+## Estructura básica de un contrato inteligente en _Solidity_
 
 ### Tipos de Variables: 
 `bool, integer (int8-int256/uint8-uint256), address, bytes, string, hex and enum`
@@ -19,7 +19,7 @@
  
 contract NombreDelContrato{
  
-<declaracion de variables>
+<declaración de variables>
 <mapping>
 <constructor>
 <funciones>
@@ -27,7 +27,7 @@ contract NombreDelContrato{
  
 }
 ```
-### Sintaxis de una Funcion
+### Sintaxis de una Función
 
 ```
 function NombreDeLaFuncion(Argumentos…) <visibilidad> <mutabilidad de estado> returns (<tipo de variable>)
@@ -65,7 +65,7 @@ Version del compilador de solidity a usar.
 pragma solidity ^0.5.0;
 ```
 
-Estructura basica del contrato que muestra "Hola Mundo" por defecto al llamar a la funcion `saludo()`
+Estructura básica del contrato que muestra "Hola Mundo" por defecto al llamar a la función `saludo()`
 ```solidity
 contract HolaMundo {
 
@@ -83,7 +83,7 @@ function saludo() public view returns(string memory){
 ```
 
 
-Funcion `almacenarMinombre()` permite al usuario modificar el nombre a quien va dirigido el saludo.
+Función `almacenarMinombre()` permite al usuario modificar el nombre a quien va dirigido el saludo.
 ```solidity
 function almacenarMinombre(string memory nombre) public returns(bool success){
     require(bytes(nombre).length > 0);
@@ -92,7 +92,7 @@ function almacenarMinombre(string memory nombre) public returns(bool success){
 }
 ```
 
-Funcion `ConcatenarTexto()` se usa para unir "Hola" + "Nombre del saludo" , ya que en solidity no es posible concatenar textos directamente 'A' + 'B' = 'AB'.
+Función `ConcatenarTexto()` se usa para unir "Hola" + "Nombre del saludo" , ya que en solidity no es posible concatenar textos directamente 'A' + 'B' = 'AB'.
 ```solidity
 function ConcatenarTexto(string memory _base, string memory _value) internal pure returns (string memory) {
         bytes memory _baseBytes = bytes(_base);
@@ -120,9 +120,9 @@ function ConcatenarTexto(string memory _base, string memory _value) internal pur
 
 
 
-## Compilacion, despliegue e interaccion con el contrato inteligente en Remix IDE
+## Compilación, despliegue e interacción con el contrato inteligente en Remix IDE
 
-### Compilacion
+### Compilación
 
 1 \) Desde tu explorador visita https://remix.ethereum.org/ 
 {% embed url="https://remix.ethereum.org/" caption="" %}
@@ -133,7 +133,7 @@ function ConcatenarTexto(string memory _base, string memory _value) internal pur
 
 ![](../../.gitbook/assets/remix_compile_0.png)
 
-3 \) Copias el codigo del contrato y lo pegas en el archivo creado
+3 \) Copias el código del contrato y lo pegas en el archivo creado
 
 [Codigo del contrato:](HolaMundo.sol)
 ```solidity
@@ -186,7 +186,7 @@ function concatenarTexto(string memory _base, string memory _value) internal pur
 ![](../../.gitbook/assets/remix_compile_1.png)
 
 
-4 \) Clic en _Solidity compiler_ y seleccionas el compilador _0.5.0+..._ del menu desplegable y a continuacion clic en _Compile HolaMundo.sol_ y si no da ningun error ya tu contrato esta compilado.
+4 \) Clic en _Solidity compiler_ y seleccionas el compilador _0.5.0+..._ del menu desplegable y a continuación clic en _Compile HolaMundo.sol_ y si no da ningun error ya tu contrato esta compilado.
 
 ![](../../.gitbook/assets/remix_compile_2.png)
 
@@ -202,16 +202,16 @@ function concatenarTexto(string memory _base, string memory _value) internal pur
 
 ![](../../.gitbook/assets/remix_deploy_0.png)
 
-### Interactua con el contrato
+### Interactúa con el contrato
 
-Una vez desplegado el contrato inteligente hacer clic en el menu _Deployed Contracts_ y podras ver las funciones del contrato
+Una vez desplegado el contrato inteligente hacer clic en el menu _Deployed Contracts_ y podrás ver las funciones del contrato
 
 ![](../../.gitbook/assets/remix_deploy_1.png)
 
 
-#### Funcion saludo() 
+#### Función saludo() 
 
-Muestra el saludo predeterminado "Hola Mundo" si no se ha modifcado el estado previamiente, esta funcion es de solo lectura y no requiere GAS ya que no realiza ninguna modificacion del estado.
+Muestra el saludo predeterminado "Hola Mundo" si no se ha modificado el estado previamente, esta función es de solo lectura y no requiere GAS ya que no realiza ninguna modificación del estado.
 
 1\) Clic en _saludo_
 
@@ -221,11 +221,11 @@ Muestra el saludo predeterminado "Hola Mundo" si no se ha modifcado el estado pr
  
 #### Funcion almacenarMinombre() 
 
-Modifica el nombre por defecto "Mundo" o el ultimo nombre almacenado y coloca uno nuevo definido por el usuario, esta funcion tiene un costo en GAS ya que modifica el estado.
+Modifica el nombre por defecto "Mundo" o el ultimo nombre almacenado y coloca uno nuevo definido por el usuario, esta función tiene un costo en GAS ya que modifica el estado.
 
-1 \) Coloca _"Ruperto"_ en el campo de _almacenarMinombre_ y has clic en dicha funcion. 
+1 \) Coloca _"Ruperto"_ en el campo de _almacenarMinombre_ y has clic en dicha función. 
 
-`Transaccion a HolaMundo.almacenarMinombre("Ruperto") -> "True"`
+`Transacción a HolaMundo.almacenarMinombre("Ruperto") -> "True"`
 
 ![](../../.gitbook/assets/remix_almacenarMinombre_0.png)
 
@@ -235,16 +235,16 @@ Modifica el nombre por defecto "Mundo" o el ultimo nombre almacenado y coloca un
 
 ![](../../.gitbook/assets/remix_saludo_1.png)
 
-#### Funcion cuentas()
+#### Función cuentas()
 
-Muestra el nombre almacenado para una direccion de monedero/cartera en especifico en este ejemplo estamos usado la cartera `0x5B38Da6a701c568545dCfcB03FcB875f56beddC4`, en tu prueba tu direccion de monedero o cartera sera diferente, esta funcion no consume Gas ya que no modifica el estado.
+Muestra el nombre almacenado para una dirección de monedero/cartera en especifico en este ejemplo estamos usado la cartera `0x5B38Da6a701c568545dCfcB03FcB875f56beddC4`, en tu prueba tu dirección de monedero o cartera sera diferente, esta función no consume Gas ya que no modifica el estado.
 
-1 \) Copia tu direccion de cartera en el menu _ACCOUNT_  "Copy value to clipboard"
+1 \) Copia tu dirección de cartera en el menu _ACCOUNT_  "Copy value to clipboard"
 
 ![](../../.gitbook/assets/remix_cuentas_0.png)
 
 
-2 \) Pegas la cuenta de la cartera/monedero en uso en el campo de _cuentas_ y luego clic en la misma funcion
+2 \) Pegas la cuenta de la cartera/monedero en uso en el campo de _cuentas_ y luego clic en la misma función
 
 `Llamada a HolaMundo.cuentas() -> "Ruperto"`
 
