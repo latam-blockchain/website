@@ -56,7 +56,7 @@ _Si estas usando MetaMask desde tu dispositivo móvil "Settings" se encuentra en
 
 2 \) Clic en _Metamask_ y al desbloquear tu wallet verica que no eres un robot pasando el desafio _hCaptcha_
 
-3 \) Click en _Recibir_ y se realizara la tranccion con los fondos de prueba 
+3 \) Click en _Recibir_ y se realizara la transaccion con los fondos de prueba 
 
 ![](../../.gitbook/assets/faucet.gif)
 
