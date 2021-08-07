@@ -8,6 +8,9 @@ description: Configura tu Metamask para Latam-Blockchain
 
 1 \) Visita [Chainlist](https://chainlist.org/)
 
+{% embed url="https://chainlist.org/" caption="" %}
+
+
 2 \) Busca _Resil_ en el campo "Search Networks"
 
 3 \) En la red _Resil_ has clic "Connect Wallet" y luego en "Add To Metamask"
@@ -52,7 +55,7 @@ _Si estas usando MetaMask desde tu dispositivo móvil "Settings" se encuentra en
 
 ## Como obtener monedas de prueba?
 
-1 \) Visita el faucet de Latam-Blockchain y clic en _Conectar Monedero_
+1 \) Visita el [faucet](https://faucet.latam-blockchain.com) de Latam-Blockchain y clic en _Conectar Monedero_
 
 {% embed url="https://faucet.latam-blockchain.com" caption="" %}
 
@@ -68,7 +71,7 @@ _Si estas usando tu Dispositivo móvil clic en WalletConnet y no en Metamask_
 
 ## Como agregar un token de la red?
 
-1 \) Visita el explorador de bloques de Latam-Blokchain en la seccion de tokens
+1 \) Visita el [explorador de bloques](https://explorer.latam-blockchain.com/tokens) de Latam-Blokchain en la seccion de tokens
 
 {% embed url="https://explorer.latam-blockchain.com/tokens" caption="" %}
 
