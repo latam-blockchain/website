@@ -17,8 +17,8 @@
 ## Para Desarrolladores
 
 * [Recursos y Herramientas](para-desarrolladores/recursos-y-herramientas.md)
-* [Tutoriales](para-desarrolladores/tutoriales/README,md)
-  * [HolaMundo-Solidity-Remix](https://github.com/latam-blockchain/tutoriales/blob/master/remix/README.md)
+* [Tutoriales](para-desarrolladores/tutoriales/README.md)
+  * [HolaMundo-Solidity-Remix](para-desarrolladores/tutoriales/README.md)
 
 ## Contacto & Medios <a id="media"></a>
 

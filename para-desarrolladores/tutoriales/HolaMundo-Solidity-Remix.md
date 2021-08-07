@@ -133,7 +133,7 @@ function ConcatenarTexto(string memory _base, string memory _value) internal pur
 3 \) Copias el codigo del contrato y lo pegas en el archivo creado
 
 [Codigo del contrato:](https://github.com/latam-blockchain/tutoriales/blob/master/remix/contracts/HolaMundo.sol)
-```Solidity
+```solidity
 pragma solidity ^0.5.0;
 
 contract HolaMundo {
