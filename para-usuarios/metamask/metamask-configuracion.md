@@ -20,6 +20,8 @@ _Este método solo funciona para el Metamask en pc_
 _Este método no agrega el explorador de bloques a tu Metamask_
 {% endhint %}
 
+![](../../.gitbook/assets/chainlist.gif)
+
 ## Configuración manual
 
 1 \) Abrir y desbloquear el Metamask
@@ -54,7 +56,11 @@ _Si estas usando MetaMask desde tu dispositivo móvil "Settings" se encuentra en
 
 {% embed url="https://faucet.latam-blockchain.com" caption="" %}
 
-2 \) Clic en _Metamask_ y al desbloquear tu wallet verica que no eres un robot pasando el desafio _hCaptcha_
+2 \) Clic en _Metamask_ y al desbloquear tu wallet verifica que no eres un robot pasando el desafio _hCaptcha_
+
+{% hint style="info" %}
+_Si estas usando tu Dispositivo móvil clic en WalletConnet y no en Metamask_
+{% endhint %}
 
 3 \) Click en _Recibir_ y se realizara la transaccion con los fondos de prueba 
 
