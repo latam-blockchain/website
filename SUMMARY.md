@@ -18,7 +18,7 @@
 
 * [Recursos y Herramientas](para-desarrolladores/recursos-y-herramientas.md)
 * [Tutoriales](para-desarrolladores/tutoriales/README.md)
-  * [HolaMundo-Solidity-Remix](para-desarrolladores/tutoriales/README.md)
+  * [HolaMundo-Solidity-Remix](para-desarrolladores/tutoriales/HolaMundo-Solidity-Remix.md)
 
 ## Contacto & Medios <a id="media"></a>
 
