@@ -53,34 +53,5 @@ _Si estas usando MetaMask desde tu dispositivo móvil "Settings" se encuentra en
 
 ![](../../.gitbook/assets/metamask_setup.gif)
 
-## Como obtener monedas de prueba?
 
-1 \) Visita el [faucet](https://faucet.latam-blockchain.com) de Latam-Blockchain y clic en _Conectar Monedero_
-
-{% embed url="https://faucet.latam-blockchain.com" caption="" %}
-
-2 \) Clic en _Metamask_ y al desbloquear tu moedero/cartera verifica que no eres un robot pasando el desafio _hCaptcha_
-
-{% hint style="info" %}
-_Si estas usando tu Dispositivo móvil clic en WalletConnet y no en Metamask_
-{% endhint %}
-
-3 \) Click en _Recibir_ y se realizara la transaccion con los fondos de prueba 
-
-![](../../.gitbook/assets/faucet.gif)
-
-## Como agregar un token de la red?
-
-1 \) Visita el [explorador de bloques](https://explorer.latam-blockchain.com/tokens) de Latam-Blokchain en la seccion de tokens
-
-{% embed url="https://explorer.latam-blockchain.com/tokens" caption="" %}
-
-2 \) 
-## Conectar con tu Hardware Wallet
-
-_WIP_
-
-## Preguntas Frecuentes
-
-_WIP_
 
