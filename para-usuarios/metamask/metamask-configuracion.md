@@ -59,7 +59,7 @@ _Si estas usando MetaMask desde tu dispositivo móvil "Settings" se encuentra en
 
 {% embed url="https://faucet.latam-blockchain.com" caption="" %}
 
-2 \) Clic en _Metamask_ y al desbloquear tu wallet verifica que no eres un robot pasando el desafio _hCaptcha_
+2 \) Clic en _Metamask_ y al desbloquear tu moedero/cartera verifica que no eres un robot pasando el desafio _hCaptcha_
 
 {% hint style="info" %}
 _Si estas usando tu Dispositivo móvil clic en WalletConnet y no en Metamask_
