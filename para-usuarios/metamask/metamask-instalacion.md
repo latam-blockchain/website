@@ -1,5 +1,5 @@
 ---
-description: Como Instalar el monedero Metamask?
+description: Como Instalar el monedero/cartera Metamask?
 ---
 
 # Instalacion

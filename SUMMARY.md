@@ -10,7 +10,7 @@
 
 ## Para Usuarios
 
-* [Monedero - Billetera](para-usuarios/metamask/README.md)
+* [Monedero Metamask](para-usuarios/metamask/README.md)
   * [Instalacion](para-usuarios/metamask/metamask-instalacion.md)
   * [Configuracion](para-usuarios/metamask/metamask-configuracion.md)
   * [Monedas de prueba](para-usuarios/metamask/metamask-faucet.md)

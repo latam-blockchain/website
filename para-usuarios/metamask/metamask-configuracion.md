@@ -1,5 +1,5 @@
 ---
-description: Configura tu Metamask para Latam-Blockchain
+description: Como configurar tu Metamask para Latam-Blockchain?
 ---
 
 # Configuracion

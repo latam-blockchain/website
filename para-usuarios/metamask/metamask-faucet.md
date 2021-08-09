@@ -1,5 +1,5 @@
 ---
-description: como obtener monedas de prueba para interactuar con la red
+description: Como obtener monedas de prueba para interactuar con la red?
 ---
 
 # Como obtener monedas de prueba?
