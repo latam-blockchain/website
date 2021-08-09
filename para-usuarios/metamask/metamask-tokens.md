@@ -24,7 +24,7 @@ Para este ejemplo estaremos usando el siguiente token:
 
 4 \) Entras en el Metamask y clic en _Add Token_.
 
-5 \) Pegas la direccion del token en el campo _Token Contract Address__, clic en _Next_ y luego en _Add Token_.
+5 \) Pegas la direccion del token en el campo _Token Contract Address_, clic en _Next_ y luego en _Add Token_.
 
 ![](../../.gitbook/assets/token.gif)
 
