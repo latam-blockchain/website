@@ -9,7 +9,7 @@ description: Como Instalar el monedero/cartera Metamask en tu computador, dispos
 2 \) Selecciona tu plataforma y clic en _Install MetaMask for Firefox_
 
 {% hint style="info" %}
-en este ejemplo usamos el navegador firefox en pc.
+En este ejemplo usamos el navegador firefox en pc.
 {% endhint %}
 
 3 \) Clic en _Add to Firefox_ y espera unos segundos por la instalación y clic en "Add Extension"
@@ -30,22 +30,22 @@ en este ejemplo usamos el navegador firefox en pc.
 
 ![](../../.gitbook/assets/metamask-firefox-install-2.gif)
 
-10 \) En la nueva pagina de _Secure your wallet_ clic en _Next_
+10 \) En la página de _Secure your wallet_ clic en _Next_
 
-11 \) En la nueva pagina de _Secret Backup Phrase_ clic en _ CLICK HERE TO REVEAL SECRET WORDS_
+11 \) En la página de _Secret Backup Phrase_ clic en _ CLICK HERE TO REVEAL SECRET WORDS_
 
 {% hint style="info" %}
-para este ejemplo la frase de seguridad es _release cloud shoot anger key picture credit punch verify isolate deposit shoot_ , en tu instalación sera diferente.
+Para este ejemplo la frase de seguridad es _release cloud shoot anger key picture credit punch verify isolate deposit shoot_ , en tu instalación sera diferente.
 {% endhint %}
 
 {% hint style="warning" %}
 ADVERTENCIA!!!!: Nunca muestres a un tercero la frase secreta o palabras de respaldo (las 12 palabras en ingles que te muestra al hacer clic en _ CLICK HERE TO REVEAL SECRET WORDS _). Cualquiera con esta frase puede tener acceso a tus fondos.
 
-almacena la frase anterior en un lugar seguro, escritas a mano preferiblemente, dicha frase o palabras de respaldo sirven para recuperar tu monedero en cualquier otro dispositivo y tener acceso a tus fondos.
+Almacena la frase anterior en un lugar seguro, escritas a mano preferiblemente, dicha frase o palabras de respaldo sirven para recuperar tu monedero en cualquier otro dispositivo y tener acceso a tus fondos.
 
-el orden en que se muestran las palabras es importante, respalda las palabras con el orden correcto.
+El orden en que se muestran las palabras es importante, respalda las palabras con el orden correcto.
 
-recuerda, ser tu propio banco requiere responsabilidad!, oculta, cuida y respalda tu monedero...
+Recuerda, ser tu propio banco requiere responsabilidad!, oculta, cuida y respalda tu monedero...
 
 _WIP_ agregar tutorial para importar/re establecer  un monedero a partir de la frase de seguridad. 
 {% endhint %}
@@ -54,7 +54,7 @@ _WIP_ agregar tutorial para importar/re establecer  un monedero a partir de la f
 
 13 \) Clic en _Next_
 
-14 \) En la nueva pagina _Confirm your Secret Backup Phrase _, confirma que estas en custodia tu frase de recuperación, haz clic en cada una de las palabras de tu frase de respaldo en el orden correcto.
+14 \) En la página _Confirm your Secret Backup Phrase _, confirma que estas en custodia tu frase de recuperación, haz clic en cada una de las palabras de tu frase de respaldo en el orden correcto.
 
 15 \) Clic _Confirm_ y luego clic _All Done_ y cierra el aviso informativo que te aparece en pantalla. Tu monedero metamask ya esta creado y conectado por defecto a la red de _Ethereum_, 
 
