@@ -20,7 +20,7 @@ En este ejemplo usamos el navegador firefox en pc.
 
 5 \) Clic en _I Agree_ 
 
-6 \) En la nueva pagina _Create Password_,  introduce una clave para tu monedero en el campo  _New password (min 8 chars)_ , mínimo 8 caracteres!.
+6 \) En la página _Create Password_,  introduce una clave para tu monedero en el campo  _New password (min 8 chars)_ , mínimo 8 caracteres!.
 
 7 \) Repite la clave nueva en el campo _Confirm password_
 
