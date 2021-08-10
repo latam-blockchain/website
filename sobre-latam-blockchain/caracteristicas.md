@@ -1,8 +1,8 @@
 ---
-description: 'Caracteristicas que hacen unica, segura y escalable a Latam-Blockchain.'
+description: 'Características que hacen única, segura y escalable a Latam-Blockchain.'
 ---
 
-# Caracteristicas
+# Características
 
 ## USDT como moneda del sistema
 

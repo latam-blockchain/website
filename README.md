@@ -13,7 +13,7 @@ Como organización Latam-Blockchain promueve el desarrollo del sector tecnológi
 
 Participar en la red Resil de Latam-Blockchain te ayudará a experimentar y crear aplicaciones de primera clase en nuestra plataforma. ¡Bienvenido a Latam-Blockchain!
 
-![Latam-Blockchain Explorador de Bloques](.gitbook/assets/blockscout.png)
+![Explorador de Bloques](.gitbook/assets/blockscout.png)
 
 ## **Porque Latam-Blockchain?**
 
@@ -36,5 +36,5 @@ Participar en la red Resil de Latam-Blockchain te ayudará a experimentar y crea
 
 Nuestro logo representa ingenio, eficiencia energética y compromiso con la región.
 
-![Locha logo](.gitbook/assets/logo_big.png)
+![](.gitbook/assets/logo_big.png)
 

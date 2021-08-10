@@ -24,7 +24,7 @@ Resil Testnet Jul 18, 2021 Bloque \#32.600.
 
 * Para mantener la compatibilidad con la red de Ethereum están implementados los siguientes EIPs: 140 211 214 658 145 1014 1052 1283 1344 1706 1884 2028 2929 2930
 
-* Precio del Gas _"impuesto transacional"_  10 Gwei ~ 0.0002 USD por transacciones regulares
+* Precio del Gas _"impuesto transaccional"_  10 Gwei ~ 0.0002 USD por transacciones regulares
 
 * Velocidad transaccional ~ 5 segundos 
 
@@ -33,7 +33,7 @@ Resil Testnet Jul 18, 2021 Bloque \#32.600.
 * Latam-Blockchain Resil soporta los clientes OpenEthereum\(antiguo Parity\) y Nethermind
 
 {% hint style="info" %}
-_WIP_ agregar aqui link al repositorio chain_specs
+_WIP_ agregar aquí link al repositorio chain_specs
 {% endhint %}
 
 ## Explorador de Bloques

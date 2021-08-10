@@ -8,13 +8,13 @@ description: Como obtener monedas de prueba para interactuar con la red?
 
 {% embed url="https://faucet.latam-blockchain.com" caption="" %}
 
-2 \) Clic en _Metamask_ y al desbloquear tu moedero/cartera verifica que no eres un robot pasando el desafio _hCaptcha_
+2 \) Clic en _Metamask_ y al desbloquear tu monedero/cartera verifica que no eres un robot pasando el desafío _hCaptcha_
 
 {% hint style="info" %}
 _Si estas usando tu Dispositivo móvil clic en WalletConnet y no en Metamask_
 {% endhint %}
 
-3 \) Click en _Recibir_ y se realizara la transaccion con los fondos de prueba
+3 \) Click en _Recibir_ y se realizara la transacción con los fondos de prueba
 
 ![](../../.gitbook/assets/faucet.gif)
 

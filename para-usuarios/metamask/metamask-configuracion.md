@@ -2,7 +2,7 @@
 description: Como configurar tu Metamask para Latam-Blockchain?
 ---
 
-# Configuracion
+# Configuración
 
 ## Configuración automática
 

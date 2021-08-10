@@ -135,7 +135,7 @@ function ConcatenarTexto(string memory _base, string memory _value) internal pur
 
 3 \) Copias el código del contrato y lo pegas en el archivo creado
 
-[Codigo del contrato:](HolaMundo.sol)
+[Código del contrato:](HolaMundo.sol)
 ```solidity
 pragma solidity ^0.5.0;
 
@@ -219,7 +219,7 @@ Muestra el saludo predeterminado "Hola Mundo" si no se ha modificado el estado p
 
 ![](../../.gitbook/assets/remix_saludo_0.png)
  
-#### Funcion almacenarMinombre() 
+#### Función almacenarMinombre() 
 
 Modifica el nombre por defecto "Mundo" o el ultimo nombre almacenado y coloca uno nuevo definido por el usuario, esta función tiene un costo en GAS ya que modifica el estado.
 
