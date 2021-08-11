@@ -57,10 +57,9 @@ Chain ID:            172
 Currency Symbol:     USD
 Block Explorer URL:  https://explorer.latam-blockchain.com
 ```
-6 \) Clic en _Save_
-
 ![](../../.gitbook/assets/network.png)
 
+6 \) Clic en _Save_
 
-
+![](../../.gitbook/assets/metamask-setup-1.gif)
 
