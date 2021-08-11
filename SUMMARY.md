@@ -21,7 +21,7 @@
 * [Tutoriales](para-desarrolladores/tutoriales/README.md)
   * [HolaMundo-Solidity-Remix](para-desarrolladores/tutoriales/HolaMundo-Solidity-Remix.md)
 
-## _Proximamente_ Contacto & Medios <a id="media"></a>
+## Contacto & Medios <a id="media"></a> (En desarrollo)
 
 * [on WIP Equipo de desarrollo](media/equipo-de-desarrollo.md)
 * [on WIP Redes Sociales & Comunidad](media/redes-sociales.md)
