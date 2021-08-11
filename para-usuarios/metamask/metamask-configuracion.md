@@ -50,13 +50,12 @@ _Si estas usando Metamask desde tu dispositivo móvil _Settings_ se encuentra en
 
 5 \) Agregar la siguiente información de la red:
 
-```
-Network Name:        Resil Testnet
-New RPC URL:         https://rpc.latam-blockchain.com
-Chain ID:            172
-Currency Symbol:     USD
-Block Explorer URL:  https://explorer.latam-blockchain.com
-```
+Network Name:        `Resil Testnet`
+New RPC URL:         `https://rpc.latam-blockchain.com`
+Chain ID:            `172`
+Currency Symbol:     `USD`
+Block Explorer URL:  `https://explorer.latam-blockchain.com`
+
 ![](../../.gitbook/assets/network.png)
 
 6 \) Clic en _Save_
