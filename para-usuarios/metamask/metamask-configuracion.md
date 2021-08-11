@@ -16,14 +16,19 @@ _Este método no agrega el explorador de bloques a tu Metamask_
 
 {% embed url="https://chainlist.org/" caption="" %}
 
-
 2 \) Busca _Resil_ en el campo "Search Networks"
 
-3 \) En la red _Resil_ has clic "Connect Wallet" y luego en "Add To Metamask"
+3 \) En la red _Resil_ clic en _Connect Wallet_ 
 
-4 \) El el Metamask has clic en "Approve" y luego en "Switch network"
+4 \) En el Metamask clic en _Next_ y despues clic en _Connect_
 
-![](../../.gitbook/assets/chainlist.gif)
+![](../../.gitbook/assets/chainlist-0.gif)
+
+5 \) Clic en "Add To Metamask"
+
+6 \) El el Metamask clic en "Approve" y luego en "Switch network"
+
+![](../../.gitbook/assets/chainlist-1.gif)
 
 ## Configuración manual
 
