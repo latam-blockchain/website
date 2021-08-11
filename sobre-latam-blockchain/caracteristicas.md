@@ -12,18 +12,9 @@ Poseer una moneda estable, pegada al valor del $ USD dolar brinda tranquilidad y
 
 La cadena Resil de Latam-Blockchain provee un servicio de utilidad para sus usuarios; la habilidad de operar con activos digitales sin preocuparse por la especulación, volatilidad, manipulación o miedo en los mercados de activos digitales. Resil es una red independiente creada para realizar operaciones que mantienen su valor en una red neutral, transparente, segura y rápida.
 
-## Escalabilidad
+## Escalabilidad 
 
-_WIP_
+Resil posee un impuesto transaccional estable y de muy bajo costo, permitiendo a usuarios y proyectos escalar sus soluciones de manera rápida y eficiente, El alto costo asociados a los impuestos de las transacciones en Ethereum y los bloques saturados hacen difícil escalar de manera eficiente las soluciones directamente en ethereum, Resil puede escalar verticalmente (en infraestructura y optimización de los parámetros de la cadena de bloques) y horizontalmente con el despliegue de cadenas adicionales para cumplir con los requerimientos necesarios en cuanto a capacidad.  
 
-## Generador de números aleatorios on-chain
-
-_WIP_
-loterías juegos online
-
-## TokenBridges a Ethereum
-
-_WIP_
-
-### TokenBridges a otras redes
+ 
 
