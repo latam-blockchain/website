@@ -52,7 +52,7 @@ _Si estas usando Metamask desde tu dispositivo móvil _Settings_ se encuentra en
 
 Network Name:        `Resil Testnet`  
 New RPC URL:         `https://rpc.latam-blockchain.com`  
-Chain ID:            `172`
+Chain ID:            `172`  
 Currency Symbol:     `USD`  
 Block Explorer URL:  `https://explorer.latam-blockchain.com`
 
