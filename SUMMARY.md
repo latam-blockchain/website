@@ -23,8 +23,8 @@
 
 ## Contacto & Medios <a id="media"></a> (En desarrollo)
 
-* [on WIP Equipo de desarrollo](media/equipo-de-desarrollo.md)
-* [on WIP Redes Sociales & Comunidad](media/redes-sociales.md)
-* [on WIP Kit de medios](media/kit-de-medios.md)
-* [on WIP Contactanos](media/contactanos.md)
+* [Equipo de desarrollo](media/equipo-de-desarrollo.md)
+* [Redes Sociales & Comunidad](media/redes-sociales.md)
+* [Kit de medios](media/kit-de-medios.md)
+* [Contactanos](media/contactanos.md)
 
