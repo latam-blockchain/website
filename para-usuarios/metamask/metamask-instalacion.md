@@ -35,7 +35,7 @@ En este ejemplo usamos el navegador firefox en pc.
 11 \) En la página de _Secret Backup Phrase_ clic en _ CLICK HERE TO REVEAL SECRET WORDS_
 
 {% hint style="info" %}
-Para este ejemplo la frase de seguridad es _release cloud shoot anger key picture credit punch verify isolate deposit shoot_ , en tu instalación sera diferente.
+Para este ejemplo la frase de seguridad es _"release cloud shoot anger key picture credit punch verify isolate deposit shoot"_ , en tu instalación sera diferente.
 {% endhint %}
 
 {% hint style="warning" %}

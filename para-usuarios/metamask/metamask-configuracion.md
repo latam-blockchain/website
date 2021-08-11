@@ -16,7 +16,7 @@ _Este método no agrega el explorador de bloques a tu Metamask_
 
 {% embed url="https://chainlist.org/" caption="" %}
 
-2 \) Busca _Resil_ en el campo "Search Networks"
+2 \) Busca _Resil_ en el campo _Search Networks_
 
 3 \) En la red _Resil_ clic en _Connect Wallet_ 
 
@@ -24,9 +24,9 @@ _Este método no agrega el explorador de bloques a tu Metamask_
 
 ![](../../.gitbook/assets/chainlist-0.gif)
 
-5 \) Clic en "Add To Metamask"
+5 \) Clic en _Add To Metamask_
 
-6 \) El el Metamask clic en "Approve" y luego en "Switch network"
+6 \) El el Metamask clic en _Approve_ y luego en _Switch network_
 
 ![](../../.gitbook/assets/chainlist-1.gif)
 
@@ -34,29 +34,33 @@ _Este método no agrega el explorador de bloques a tu Metamask_
 
 1 \) Abrir y desbloquear el Metamask
 
-2 \) En el menú desplegable hacer clic en "Settings"
+2 \) En el menú desplegable clic en _Settings_
 
 {% hint style="info" %}
-_Si estas usando MetaMask desde el computador "Settings" se encuentra haciendo clic en la imagen circular en la parte superior derecha_
+_Si estas usando Metamask desde el computador _Settings_ se encuentra haciendo clic en la imagen circular en la parte superior derecha_
 
-_Si estas usando MetaMask desde tu dispositivo móvil "Settings" se encuentra en el menú desplegable en la parte superior izquierda_
+_Si estas usando Metamask desde tu dispositivo móvil _Settings_ se encuentra en el menú desplegable en la parte superior izquierda_
 {% endhint %}
 
-3 \) Hacer clic en "Networks"
+3 \) Clic en _Networks_
 
-4 \) Hacer clic en "Add Network"
+4 \) Clic en _Add Network_
+
+![](../../.gitbook/assets/metamask-setup-0.gif)
 
 5 \) Agregar la siguiente información de la red:
 
-* _Network Name:_        Resil Testnet
-* _New RPC URL:_         [https://rpc.latam-blockchain.com](https://rpc.latam-blockchain.com)
-* _Chain ID:_               172
-* _Currency Symbol:_     USD
-* _Block Explorer URL:_  [https://explorer.latam-blockchain.com](https://explorer.latam-blockchain.com)
+```
+Network Name:        Resil Testnet
+New RPC URL:         https://rpc.latam-blockchain.com
+Chain ID:            172
+Currency Symbol:     USD
+Block Explorer URL:  https://explorer.latam-blockchain.com
+```
+6 \) Clic en _Save_
 
-6 \) Hacer clic en "Save"
+![](../../.gitbook/assets/network.png)
 
-![](../../.gitbook/assets/metamask_setup.gif)
 
 
 
