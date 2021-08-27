@@ -64,11 +64,11 @@ Todos los validadores en la red deben usar el cliente Nethermind en remplazo de 
 
 {% embed url="https://medium.com/openethereum/gnosis-joins-erigon-formerly-turbo-geth-to-release-next-gen-ethereum-client-c6708dd06dd" caption="" %}
 
-## **Destinatario de recompensa de bloque dinámico**
+## **Implementacion POS-DAO**
 
 🎯 **Meta:** Q3 2021 ☑ **En progreso**
 
-Implementación de los contratos _ValidatorsSet_ y _Blockreward_ en función de permitir la maleabilidad de la recompensa de bloque a los destinatarios según la titularidad de tokens no fungibles en una red externa "Ethereum"
+Implementación de los contratos inteligentes y applicaciones descentralizadas referentes a las normas de consenso _Proof of Stake_ y mecanismo de gobernanza descentralizados _DAO_  
 
 ## **TokenBridge / AMB \(puente inter-cadena usdt a token nativo\)**
 
