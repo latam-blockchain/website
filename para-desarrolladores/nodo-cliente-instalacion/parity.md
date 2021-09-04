@@ -6,7 +6,7 @@ description: Cliente de Resil con OpenEthereum v3.3.0
 
 ## Instalacion manual en sistemas operativos basados en Debian 
 
-```bash
+```
 sudo apt-get update && sudo apt-get install -y curl unzip wget screen
 mkdir openethereum && cd openethereum
 wget https://github.com/openethereum/openethereum/releases/download/v3.3.0-rc.8/openethereum-linux-v3.3.0-rc.8.zip
@@ -25,7 +25,7 @@ chmod +x openethereum
 
 ### Crea un `screen` tipo demonio donde ejecutar el cliente
 
-```bash
+```
 screen -dmS resil
 screen -r resil
 ```
