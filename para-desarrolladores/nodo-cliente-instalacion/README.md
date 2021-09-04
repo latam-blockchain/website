@@ -7,7 +7,7 @@ description: Ejecuta un nodo regular y descarga la cadena de bloques
 Resil soporta los clientes OpenEthereum y Nethermind.
 
 * [OpenEthereum \(antiguo Parity\)](parity.md): Rust
-* [Nethermind](nethermind.md): .NET
+* [Nethermind WIP](nethermind.md): .NET
 
  
 
