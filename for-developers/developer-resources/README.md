@@ -89,7 +89,7 @@ There are two bridge implementations on progress connecting Latam-Blockchain and
 
 #### USD Bridge Access
 
-* xDai Bridge UI at [https://latam-blockchain.github.io/old-poa-bridge-ui/](https://latam-blockchain.github.io/old-poa-bridge-ui/) WIP
+* USD Bridge UI at [https://latam-blockchain.github.io/old-poa-bridge-ui/](https://latam-blockchain.github.io/old-poa-bridge-ui/) WIP
   * Interaction using method calls for smart contracts[WIP](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)[https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui) WIP
 
 #### OmniBridge Access
@@ -113,5 +113,5 @@ There are two bridge implementations on progress connecting Latam-Blockchain and
 * **Erc-to-Native Bridge** [**contracts**](https://github.com/latam-blockchain/resil-chain-spec/blob/testnet/bridge.contracts.json) 
 * **Netstats**, an overview of Latam-Blockchain nodes [http://dai-netstat.poa.network](http://dai-netstat.poa.network/) TODO
 * **Anyblock Index** \(aka [http://eth.events](http://eth.events)\), so you can query it via the Elasticsearch API or search in PostgreSQL: [https://account.anyblock.tools/status/](https://account.anyblock.tools/status/) TODO
-* **Gnosis Safe** [on xDai.](../../about-xdai/project-spotlights/gnosis/gnosis-safe.md) TODO
+* **Gnosis Safe** [on Latam-Blockchain](../../about-xdai/project-spotlights/gnosis/gnosis-safe.md) TODO
 

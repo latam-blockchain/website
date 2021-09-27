@@ -6,7 +6,7 @@ description: a USDT stable blockchain
 
 ## Latam-Blockchain The Stable Chain
 
-Latam-Blockchain is a stable payments EVM \(Ethereum Virtual Machine\) blockchain designed for fast and inexpensive transactions. The chain uses a dual-token model; [USD](for-users/get-usd-tokens/)is a stable token used for transactions, payments, and fees, and [LATAM](for-stakers/latam-token/) is a governance token used to support the underlying POSDAO Proof-of-Stake consensus.
+Latam-Blockchain is a stable payments EVM \(Ethereum Virtual Machine\) blockchain designed for fast and inexpensive transactions. The chain uses a dual-token model; [USD](for-users/get-usd-coin/) is a stable token used for transactions, payments, and fees, and [LATAM](latam/latam-token/) is a governance token used to support the underlying POSDAO Proof-of-Stake consensus.
 
 <table>
   <thead>
