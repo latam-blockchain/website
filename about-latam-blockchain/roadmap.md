@@ -68,7 +68,7 @@ Validators on the network must use Nethermind client instead of OpenEthereum:
 
 🎯 **Target:** Q4 2021 ✅ **Completed
 
-Bridge between Latam-Blockchain and Rinkeby 
+Bridge between Latam-Blockchain and Ethereum 
 
 {% embed url="https://github.com/latam-blockchain/resil-chain-spec/blob/testnet/bridge.contracts.json" caption="" %}
 
@@ -76,7 +76,7 @@ Bridge between Latam-Blockchain and Rinkeby
 
 🎯 **Target:** Q4 2021 ☑ **In progress**
 
-Arbitrary Message Bridge between Latam-Blockchain and Rinkeby     
+Arbitrary Message Bridge between Latam-Blockchain and Ethereum     
 _WIP_ add AMB contracts here
 
 ## **Omnibridge Extension \(multi tokens bridge\)**
@@ -85,23 +85,32 @@ _WIP_ add AMB contracts here
 
 _WIP_ add omnibridge contracts here
 
-## **LATAM token on Rikenby \(ERC677 + Distribution schema\)**
+## **LATAM token on Ethereum \(ERC677 + Distribution schema\)**
 
 🎯 **Target:** Q4 2021 ☑ **In progress**
 
 LATAM token on Ethereum, distribution contracts, withdrawal dapp & supply monitor tool  
+_WIP_ add contracts here 
 
 ## **Tokenbridge & AMB bridges UIs**
 
-🎯 **Target:** Q4 2021 ☑                   
+🎯 **Target:** Q4 2021 TODO                   
 
 User Interfaces for USD coin and LATAM token 
 
+## **Monitoring tools**
+
+Chain, Network, Bridges monitoring tools impementation.
+
+🎯 **Target:** Q4 2021 TODO
+
+User Interfaces for USD coin and LATAM token
+
 ## **Security Audit of the testnet architecture**
 
-🎯 **Target:** Q1 2022
+🎯 **Target:** Q1 2022 TODO
 
 ## **Latam-Blockchain mainnet**
 
-🎯 **Target:** Q1 2022
+🎯 **Target:** Q1 2022 TODO
 

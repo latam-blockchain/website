@@ -37,7 +37,7 @@ Main RPC is a load balancer with 4 nodes, health checks, and failover.
       <td style="text-align:left">
         <p><a href="https://rpc.latam-blockchain.com/">https://rpc.latam-blockchain.com.com/</a>
         </p>
-        <p>(alternative) <a href="https://rpc.latam-blockchain.dev/">https://rpc.latam-blockchain.dev</a>
+        <p>(alternative) <a href="https://rpc.latam-blockchain.dev/">https://rpc.latam-blockchain.dev</a> TODO
         </p>
       </td>
     </tr>
@@ -45,7 +45,7 @@ Main RPC is a load balancer with 4 nodes, health checks, and failover.
       <td style="text-align:left">WebSockets WSS endpoint</td>
       <td style="text-align:left">
         <p>wss://rpc.latam-blockchain.com</p>
-        <p>(alternative) wss://rpc.latam-blockchain.dev/wss</p>
+        <p>(alternative) wss://rpc.latam-blockchain.dev/wss</p> TODO
       </td>
     </tr>
   </tbody>
@@ -81,7 +81,7 @@ POSDAO consensus is implemented in Solidity. Proxy contracts should be read for 
 
 ## TokenBridge
 
-There are two bridge implementations on progress connecting Latam-Blockchain and Ethereum Mainnet.
+There are two bridge implementations on progress connecting Latam-Blockchain and Ethereum.
 
 \*\*\*\*[**USD Bridge**](https://docs.tokenbridge.net/xdai-bridge/about): ERC20-to-Native TokenBridge implementation, used for transferring USDT &lt;-&gt; USD between Ethereum and Latam-Blockchain. WIP
 

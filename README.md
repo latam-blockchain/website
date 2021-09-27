@@ -3,8 +3,20 @@ description: a USDT stable blockchain
 ---
 
 # Welcome to Latam-Blockchain
+{% hint style="info" %}
 
-## Latam-Blockchain The Stable Chain
+All the information contained here refers to the research and development stage, any reference to the Ethereum network is actually to Rinkeby _an ethereum test network_, any reference to Latam-Blockchain is about Latam-Blockchain testnet network.
+
+This document serves as a reference for decentralized development as well as determining the critical infrastructure needed, bussines models, tokenomics and implementation aporach, to get onboard with the development you can find any work in progress _WIP_ or _TODO_ tag to start with. 
+
+Most information here come from xDai docs and public repositories you can read more about xDai chain [here](https://www.xdaichain.com/)
+
+Please feel free to clone [this document repository](https://github.com/latam-blockchain/website/tree/EN) and summit any change via pull request to us.
+
+To follow the development you can go direcly to the [roadmap here](about-latam-blockchain/roadmap.md) or join our [discord server](https://discord.gg/TncBuWdY6B), we speak Spanish too!   
+{% endhint %}
+
+## Latam-Blockchain The USDT Stable Chain
 
 Latam-Blockchain is a stable payments EVM \(Ethereum Virtual Machine\) blockchain designed for fast and inexpensive transactions. The chain uses a dual-token model; [USD](for-users/get-usd-coin/) is a stable token used for transactions, payments, and fees, and [LATAM](latam/latam-token/) is a governance token used to support the underlying POSDAO Proof-of-Stake consensus.
 
@@ -37,14 +49,14 @@ Latam-Blockchain is a stable payments EVM \(Ethereum Virtual Machine\) blockchai
 </table>
 
 
-🌉 USD Bridges provide the seamless ability to move tokens between chains using the unique [TokenBridge Architecture](https://docs.tokenbridge.net/). Tokens and arbitrary messages can also be passed across chain.
+🌉 USD Bridges provide the seamless ability to move tokens between chains using the [TokenBridge Architecture](https://docs.tokenbridge.net/). Tokens and arbitrary messages can also be passed across chain.
 
 🔎 [BlockScout Block Explorer](https://explorer.latam-blockchain.com) provides transactional transparency, custom features and a portal for Latam-Blockchain apps such as LATAM staking, the USD faucet, cross-chain bridge access and monitoring.
 
 * [USD Bridge](https://latam-blockchain.github.io/old-poa-bridge-ui/) WIP
 * [Omnibridge]() TODO 
 
-📊Chain usage stats available with [Dune Analytics](). TODO
+📊Chain usage stats available with [Dune Analytics](https://duneanalytics.com/maxaleks/xDai-Usage). TODO
 
 ## **Latam-Blockchain Developers**
 
@@ -77,7 +89,7 @@ Any contract that works on the Ethereum can be redeployed to Latam-Blockchain. O
 * ✅Full-featured  [BlockScout Explorer](https://explorer.latam-blockchain.com).
 * ✅On-chain, decentralized [Random Number Generator](for-developers/on-chain-random-numbers/).
 * ✅Smart Contract, DApp & toolset compatibility with other Ethereum-based chains like Ethereum, Ethereum Classic, BSC and others.
-* ✅Based on solid technology:
+* ✅Based on:
  * [POA](https://www.poa.network/)
  * [xDai](https://www.xdaichain.com/)
  * [TokenBridge](https://docs.tokenbridge.net/)
