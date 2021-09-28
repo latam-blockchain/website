@@ -74,8 +74,6 @@ Any contract that works on Ethereum can be redeployed to Latam-Blockchain. On La
 
 🛠 See [Developer Resources and Tools](for-developers/developer-resources.md) to get up-and-running quickly.
 
-![BlockScout Explorer for Latam-Blockchain](.gitbook/assets/blockscout.png)
-
 ## **Why Latam-Blockchain?**
 
 * ✅Fast transaction times \(5 seconds\) & low transaction fees \(500 tx for $.01\).
