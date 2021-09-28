@@ -3,16 +3,13 @@ description: For private round investors
 ---
 
 # Claim LATAM: Private Investors & Advisors
+
 {% hint style="warning" %}
-
 LATAM is only on Rinkeby testnet by now, you can ask in our discord server the release dates for Ethereum mainnet or if you are interested in participating in the private rounds or public offer [Discord Server](https://discord.gg/TncBuWdY6B), all contracts showed here may change.
-
 {% endhint %}
 
 {% hint style="warning" %}
-
 Use this information as reference, the Withdrawal dApp not inplmented yet! please use manual instructions to perform the testnet LATAM Withdrawal
-
 {% endhint %}
 
 {% hint style="success" %}
@@ -44,7 +41,7 @@ If you have already setup MetaMask or other Web3Wallet with LATAM, skip to the [
 {% endhint %}
 
 {% hint style="info" %}
-If using a hardware wallet to store your tokens \(Ledger, Trezor\) you can connect it to Metamask rather than importing your account.  Connecting Metamask instructions: [https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet](https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet)
+If using a hardware wallet to store your tokens \(Ledger, Trezor\) you can connect it to Metamask rather than importing your account. Connecting Metamask instructions: [https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet](https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet)
 {% endhint %}
 
 1\) Import your account to Metamask. This is the account you used to obtain LATAM as an Advisor or Private Investor. You can use the private key or JSON file to import \(or Connect Hardware Wallet\).
@@ -59,7 +56,7 @@ a\) In Metamask click **Add token**
 
 ![](../../../.gitbook/assets/mm1%20%281%29.png)
 
-b\) In the **Token Contract Address** input field enter in the LATAM Token address. The remaining details will autopopulate. Click **Next**.  
+b\) In the **Token Contract Address** input field enter in the LATAM Token address. The remaining details will autopopulate. Click **Next**.
 
 * LATAM Token Address: [0x886714772777465613959d35C36d84bb3b5FfB0b](https://rinkeby.etherscan.io/token/0x886714772777465613959d35C36d84bb3b5FfB0b)
 
@@ -87,8 +84,8 @@ c\) Click **Add Tokens** to add to your wallet view. You will have 0 LATAM token
 * `Available` Amount of tokens available now. You will receive this amount when you process a withdrawal. If 0, you may need to unlock funds prior to withdrawal. 
 * `Total number of installments`: Total installments
 * `Number of remaining installments`: How many daily installments are left.
-* `Next installment`: Installments are released according to the following schedule:  
-  
+* `Next installment`: Installments are released according to the following schedule:
+
   _Private Investors_
 
   * 25% released at initialization
@@ -107,7 +104,7 @@ c\) Click **Add Tokens** to add to your wallet view. You will have 0 LATAM token
 ![MetaMask Confirmation](../../../.gitbook/assets/mm-confirm.png)
 
 {% hint style="warning" %}
-\*Note - The **Withdraw** button is locked when **Available** is zero. If you see **Unlock funds** button under  **Withdraw**, click the Unlock Funds button to create a transaction to unlock the next installment. Confirming this transaction unlocks the installment for all addresses. The amount available will shift from 0 to your amount available for withdrawal.
+\*Note - The **Withdraw** button is locked when **Available** is zero. If you see **Unlock funds** button under **Withdraw**, click the Unlock Funds button to create a transaction to unlock the next installment. Confirming this transaction unlocks the installment for all addresses. The amount available will shift from 0 to your amount available for withdrawal.
 {% endhint %}
 
 ![\*Unlock funds button appears if no one has unlocked funds. Click to create an unlock transaction.](../../../.gitbook/assets/image%20%285%29.png)
@@ -120,6 +117,6 @@ Once the withdrawal transaction is processed, you should see your LATAM token am
 
 If you have difficulty using the DApp or would prefer withdrawing manually you can use Etherscan. See the appropriate manual instructions below:
 
-* [Private Investor Manual Instruction]()
+* [Private Investor Manual Instruction](claim-latam.md)
 * [Advisors Manual Instruction](manual-instructions-advisors.md)
 

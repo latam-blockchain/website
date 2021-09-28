@@ -1,6 +1,6 @@
 # On-Chain Random Numbers
 
-Latam-Blockchain features an on-chain RNG based on RANDAO. It may be leveraged by smart contract developers to introduce random numbers into their applications.  _Note that random numbers are limited to certain blocks in the current implementation. See below for more information._
+Latam-Blockchain features an on-chain RNG based on RANDAO. It may be leveraged by smart contract developers to introduce random numbers into their applications. _Note that random numbers are limited to certain blocks in the current implementation. See below for more information._
 
 * [PRNG implementation explainer](randomaura-rng-explainer.md)
 * [How to access the random seed in a smart contract](accessing-a-random-seed-with-a-smart-contract.md)
@@ -12,9 +12,9 @@ The following article by POA team explains on-chain randomness functions and how
 [https://forum.poa.network/t/reliable-randomness-bringing-on-chain-entropy-to-the-xdai-stable-chain/3015](https://forum.poa.network/t/reliable-randomness-bringing-on-chain-entropy-to-the-xdai-stable-chain/3015)
 {% endhint %}
 
-## Randomness Contract \(RandomAuRa\) 
+## Randomness Contract \(RandomAuRa\)
 
-RandomAura is an upgradeable contract, so it includes both an implementation and proxy address. To access, utilize the proxy address \(`RandomAuraProxy`\) along with the ABI of the implementation contract \(`RandomAuraCode`\).  Seed values are read from the proxy contract.
+RandomAura is an upgradeable contract, so it includes both an implementation and proxy address. To access, utilize the proxy address \(`RandomAuraProxy`\) along with the ABI of the implementation contract \(`RandomAuraCode`\). Seed values are read from the proxy contract.
 
 | Contract | Address | Last Update |
 | :--- | :--- | :--- |

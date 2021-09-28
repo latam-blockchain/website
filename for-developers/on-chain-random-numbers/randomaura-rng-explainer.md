@@ -8,12 +8,12 @@ The following is designed to work with[ OpenEthereum's AuRa ](https://openethere
 
 ### Collection Rounds
 
-A series of **collection rounds** are used for random number generation. The  collection round length is configurable - in this example we use 38 blocks for a round, ****split into two equal 19 block phases:
+A series of **collection rounds** are used for random number generation. The collection round length is configurable - in this example we use 38 blocks for a round, _\*\*_split into two equal 19 block phases:
 
 * `commit phase` 
 * `reveal phase`
 
-The length of each phase is  `19` blocks \( `38 / 2 = 19`\). When one collection round finishes, the next collection round starts, and so on. For example:
+The length of each phase is `19` blocks \( `38 / 2 = 19`\). When one collection round finishes, the next collection round starts, and so on. For example:
 
 ```text
 Block number   |   Phase
@@ -42,7 +42,7 @@ During each collection round, the RandomAura contract \(see below\) collects the
 
 ### Commit Phase
 
-1\) Each validator in the set generates a random `number` locally with their node, hashes the secret, and calls the `commitHash` function when it is their turn to create a block.  
+1\) Each validator in the set generates a random `number` locally with their node, hashes the secret, and calls the `commitHash` function when it is their turn to create a block.
 
 ```javascript
 /// @dev Called by the validator's node to store a hash and a cipher of the validator's number on each collection
@@ -66,7 +66,7 @@ function commitHash(bytes32 _numberHash, bytes calldata _cipher) external {
 }
 ```
 
-2\) This function accepts the hash of the secret `number` and its `cipher`. The `cipher` is the `number` encrypted with a validator's key, and  is needed for the `reveal phase` \(see below\).
+2\) This function accepts the hash of the secret `number` and its `cipher`. The `cipher` is the `number` encrypted with a validator's key, and is needed for the `reveal phase` \(see below\).
 
 For example, if there are three validators, they will call `commitHash` in the following order \(for the sample case above\):
 
@@ -618,6 +618,5 @@ contract RandomAuRa is UpgradeableOwned, IRandomAuRa {
         return true;
     }
 }
-
 ```
 

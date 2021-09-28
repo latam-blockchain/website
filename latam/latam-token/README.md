@@ -25,7 +25,7 @@ LATAM is only on Rinkeby testnet and Latam-Blockchain testnet by now, you can as
 
 ## Staking LATAM
 
-Individuals who own LATAM tokens on Latam-Blockchain can place them into the protocol through a [user friendly interface on BlockScout](https://explorer.latam-blockchain.com/validators). 
+Individuals who own LATAM tokens on Latam-Blockchain can place them into the protocol through a [user friendly interface on BlockScout](https://explorer.latam-blockchain.com/validators).
 
 Validator candidates must meet certain requirements before placing LATAM \(the ability to run a functional node and minimum LATAM amounts\). Delegators can place additional LATAM on candidates and receive rewards when the candidates they have placed LATAM on are chosen as validators.
 
@@ -39,13 +39,11 @@ The LATAM circulating supply is **8,537,500 tokens** \(once all tokens are unloc
 
 As the ecosystem matures, LATAM will be used for chain governance, giving holders a chance to update network parameters for optimal performance. This will include items such as validator/delegator minimums, fees, and other aspects of Latam-Blockchain.
 
-Community members can [submit governance proposals and vote with LATAM through Snapshot](../../for-users/governance/stake-weighted-voting/).
+Community members can [submit governance proposals and vote with LATAM through Snapshot](https://github.com/latam-blockchain/website/tree/aa4cbe03ed18dc72605b2e788c28cc7666804e10/for-users/governance/stake-weighted-voting/README.md).
 
 In future iterations, holders will have the opportunity to use LATAM in a micro-governance context to determine things like transaction sequencing and priority on a per-block basis, giving a true community voice to the txs written directly to the chain. Value capture related to this concept, known as [Miner Extractable Value](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788), will give LATAM an intrinsic and important purpose when Eth 2.0 is ready for production.
 
 {% hint style="info" %}
- LATAM is a flexible asset, meaning it may be used in a variety of contexts. The initial use case describes leveraging LATAM in the POSDAO implementation, however LATAM may be used for staking \(or other purposes\) by other blockchain networks.
+LATAM is a flexible asset, meaning it may be used in a variety of contexts. The initial use case describes leveraging LATAM in the POSDAO implementation, however LATAM may be used for staking \(or other purposes\) by other blockchain networks.
 {% endhint %}
-
-
 

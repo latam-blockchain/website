@@ -37,7 +37,7 @@ Business logic actions that require randomness should not be allowed during the 
 
 It is possible to create an on-chain PRNG where the `currentSeed` value is used to seed a generator. However, as soon as the seed is known, the whole sequence is known! To add additional entropy, the seed may be salted with the block hash, however this method is still not considered secure.
 
- A simple way to turn a single seed into multiple numbers is to use `hash(currentseed+0)` , `hash(currentseed+1)`, `hash(currentseed+2)`, etc., or something similar \(e.g. `hash(currentseed+previousHash)`\). Limitations of this method \(regarding security and speed\) are discussed here: [https://stackoverflow.com/questions/14467805/can-a-cryptographic-hash-algorithm-be-used-as-a-prng](https://stackoverflow.com/questions/14467805/can-a-cryptographic-hash-algorithm-be-used-as-a-prng)​
+A simple way to turn a single seed into multiple numbers is to use `hash(currentseed+0)` , `hash(currentseed+1)`, `hash(currentseed+2)`, etc., or something similar \(e.g. `hash(currentseed+previousHash)`\). Limitations of this method \(regarding security and speed\) are discussed here: [https://stackoverflow.com/questions/14467805/can-a-cryptographic-hash-algorithm-be-used-as-a-prng](https://stackoverflow.com/questions/14467805/can-a-cryptographic-hash-algorithm-be-used-as-a-prng)​
 
 ## How secure is this method of on-chain random number generation? <a id="how-secure-is-this-method-of-on-chain-random-number-generation"></a>
 
@@ -45,7 +45,7 @@ While secure, there are considerations to keep in mind. It is possible that mali
 
 This means that during the reveal phase, a validator can effectively choose between 2 numbers, either the current number or the new one that will be created when they reveal their number. If an application uses the final number of the reveals phase, only the final validator can make this choice, limiting the scope of this issue.
 
-To discourage skipping, validators who skip too often \(or skip at the end of an epoch\) will be reported as malicious. In POSDAO, malicious validators are banned from the protocol for 90 days and their STAKE frozen. 
+To discourage skipping, validators who skip too often \(or skip at the end of an epoch\) will be reported as malicious. In POSDAO, malicious validators are banned from the protocol for 90 days and their STAKE frozen.
 
 ## Will on-chain, unpredictable random numbers per block be available in the future? <a id="will-on-chain-unpredictable-random-numbers-per-block-be-available-in-the-future"></a>
 

@@ -2,8 +2,7 @@
 description: Setup your custom RPC to connect to Metamask
 ---
 
-# Metamask Setup
-
+# Metamask setup
 
 ## Setting up MetaMask for Latam-blockchain
 
@@ -12,7 +11,7 @@ See instructions below for manual entry.
 
 Quick Methods
 
-1. [Chainlist](https://chainlist.org/). Search for Latam-Blockchain and click add, you may still need to add _https://explorer.latam-blockchain.com_ as the Block Explorer.
+1. [Chainlist](https://chainlist.org/). Search for Latam-Blockchain and click add, you may still need to add [https://explorer.latam-blockchain.com](https://explorer.latam-blockchain.com) as the Block Explorer.
 2. [Faucet](https://app.sushi.com/swap). With MetaMask enabled on Ethereum visit the faucet and click on _Conectar Monedero_ and approve the metamask requests, Metamask will ask for approval to add the Latam-Blockchain chain.
 {% endhint %}
 
@@ -20,7 +19,7 @@ Quick Methods
 
 1\) Open Metamask, and select "Custom RPC" from the Network Dropdown.
 
-![](../../../.gitbook/assets/custom-rpc.png)
+![](https://github.com/latam-blockchain/website/tree/cfe5a1b5c5310c6d8e0379d2f4d7ed509ffd738a/.gitbook/assets/custom-rpc.png)
 
 2\) In the "Custom RPC" Settings, add in the xDai network details and click **Save**:
 
@@ -41,7 +40,7 @@ If you'd prefer not to make these changes, [**Nifty Wallet** ](https://chrome.go
 {% endhint %}
 
 {% hint style="success" %}
-Once you add the xDai network, you will need xDai to pay for transactions. See [Getting xDai](../../get-xdai-tokens/) for more information.
+Once you add the xDai network, you will need xDai to pay for transactions. See [Getting xDai](https://github.com/latam-blockchain/website/tree/cfe5a1b5c5310c6d8e0379d2f4d7ed509ffd738a/for-users/get-xdai-tokens/README.md) for more information.
 {% endhint %}
 
 ## Adding Custom Tokens
@@ -50,7 +49,7 @@ When bridging tokens from Ethereum, BSC or elsewhere you may need to add the cus
 
 The easiest way is to click on the fox icon in BlockScout or OmniBridge for the token you are adding, then complete the process through the MetaMask popup.
 
-![](../../../.gitbook/assets/foxes%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![](https://github.com/latam-blockchain/website/tree/cfe5a1b5c5310c6d8e0379d2f4d7ed509ffd738a/.gitbook/assets/foxes%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 If you want to add manually in MetaMask, go to **Assets** -&gt; **Add Token**, Paste in the address \(symbol and decimals should populate if you are connected to xDai\) and save.
 

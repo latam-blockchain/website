@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Latam-Blockchain](README.md) 
+* [Welcome to Latam-Blockchain](README.md)
 
 ## About Latam-Blockchain
 
@@ -8,14 +8,15 @@
 * [Roadmap](about-latam-blockchain/roadmap.md)
 
 ## For users
+
 * [USD Stable Coin](for-users/get-usd-coin/README.md)
-  * [USD Faucet](for-users/get-usd-coins/usd-faucet.md)
+  * [USD Faucet](for-users/get-usd-coin/usd-faucet.md)
 * [Wallets](for-users/wallets/README.md)
   * [Wallet Metamask](for-users/wallets/metamask/README.md)
     * [Metamask setup](for-users/wallets/metamask/metamask-setup.md)
 
+## LATAM
 
-## LATAM 
 * [LATAM Token](latam/latam-token/README.md)
   * [How to get LATAM Tokens](latam/latam-token/get-latam/README.md)
     * [Claim LATAM: Private Investors & Advisors](latam/latam-token/get-latam/claim-latam.md)
@@ -24,13 +25,10 @@
     * [Add STAKE to MetaMask](latam/latam-token/get-latam/add-latam-to-metamask.md)
 
 ## For Developers
-* [Developer Resources & Tools](for-developers/developer-resources/README.md)
+
+* [Developer Resources & Tools](for-developers/developer-resources.md)
 * [On-Chain Random Numbers](for-developers/on-chain-random-numbers/README.md)
   * [RandomAura RNG Explainer](for-developers/on-chain-random-numbers/randomaura-rng-explainer.md)
   * [Accessing a Random Seed with a Smart Contract](for-developers/on-chain-random-numbers/accessing-a-random-seed-with-a-smart-contract.md)
   * [Randomness FAQs](for-developers/on-chain-random-numbers/randomness-faqs.md)
-
-
-## Contacto & Medios <a id="media"></a> 
-
 

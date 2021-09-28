@@ -1,8 +1,8 @@
 # Accessing a Random Seed with a Smart Contract
 
-The  RandomAura contract allows smart contracts to access a random number generated on-chain by the protocol.
+The RandomAura contract allows smart contracts to access a random number generated on-chain by the protocol.
 
-#### Public getters:
+### Public getters:
 
 * **`currentSeed`**: access the network's random seed.
 * **`collectRoundLength`**: length in blocks for each collection round \(commit + reveal phases\)
@@ -12,19 +12,18 @@ The  RandomAura contract allows smart contracts to access a random number genera
 
 The public getter `currentSeed` is used to access the network's random seed. Its value is only updated when the `revealNumber` function is called. This should occur **at least once per collection round**. The length in blocks of each collection round can be retrieved with the `collectRoundLength` public getter.
 
-There are two phases in each round, a `commit phase` and a `reveal phase`. Since the revealing validator always knows the next random number before sending it, a DApp should **prohibit business logic actions** that depend on a random value **during the `reveal phase`**. 
+There are two phases in each round, a `commit phase` and a `reveal phase`. Since the revealing validator always knows the next random number before sending it, a DApp should **prohibit business logic actions** that depend on a random value **during the `reveal phase`**.
 
 {% hint style="warning" %}
 For example, a gambling application that relies on a random value should only allow bets to be placed during the `commit phase`. This type of application must **prevent users from placing new bets during the entire reveal phase**.
 {% endhint %}
 
-To determine the current phase, use the `isCommitPhase` public getter: it returns `true` if the current block is in the `commit phase` and `false` if the block is in the `reveal phase`. 
+To determine the current phase, use the `isCommitPhase` public getter: it returns `true` if the current block is in the `commit phase` and `false` if the block is in the `reveal phase`.
 
-To retrieve the number of the first block of the next `commit phase`, use the `nextCommitPhaseStartBlock` public getter. To do the same for the `reveal phase`, use the `nextRevealPhaseStartBlock` public getter.  
-
+To retrieve the number of the first block of the next `commit phase`, use the `nextCommitPhaseStartBlock` public getter. To do the same for the `reveal phase`, use the `nextRevealPhaseStartBlock` public getter.
 
 {% hint style="info" %}
-Random numbers are updated during the reveal phase when validators produce block for the first time.  For example, there can be 17 validators, but the reveal phase length is 38 blocks. So, during the reveal phase, the current seed will only be updated 17 times.
+Random numbers are updated during the reveal phase when validators produce block for the first time. For example, there can be 17 validators, but the reveal phase length is 38 blocks. So, during the reveal phase, the current seed will only be updated 17 times.
 
 The commit & reveal phases have lengths of 38 blocks each. The total collection round \(commit phase + reveal phase\) has 76 blocks \(38+38\).
 {% endhint %}

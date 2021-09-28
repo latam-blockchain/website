@@ -2,7 +2,7 @@
 description: The original web3 wallet
 ---
 
-# Metamask
+# Wallet Metamask
 
 **Wallet Type**: Web3 wallet: Extensions available for [Chrome, Firefox, Opera and more](https://metamask.io/)
 
@@ -14,9 +14,9 @@ description: The original web3 wallet
 
 When you click the link a dialog box will appear from MetaMask like the one below, confirm the details and you are finished!
 
-![MetaMask Chrome extension connected to the xDai chain](../../../.gitbook/assets/metamask-deeplink.png)
+![MetaMask Chrome extension connected to the xDai chain](https://github.com/latam-blockchain/website/tree/cfe5a1b5c5310c6d8e0379d2f4d7ed509ffd738a/.gitbook/assets/metamask-deeplink.png)
 
 ## Manual xDai Configuration
 
-![MetaMask Chrome extension connected to the xDai chain](../../../.gitbook/assets/mm-ex2.png)
+![MetaMask Chrome extension connected to the xDai chain](https://github.com/latam-blockchain/website/tree/cfe5a1b5c5310c6d8e0379d2f4d7ed509ffd738a/.gitbook/assets/mm-ex2.png)
 

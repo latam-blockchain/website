@@ -1,9 +1,7 @@
 # Manual Instructions - Private Investors
 
 {% hint style="warning" %}
-
 LATAM is only on Rinkeby testnet by now, you can ask in our discord server the release dates for Ethereum mainnet or if you are interested in participating in the private rounds or public offer [Discord Server](https://discord.gg/TncBuWdY6B), all contracts showed here may change.
-
 {% endhint %}
 
 {% hint style="success" %}
@@ -19,13 +17,13 @@ Private investor token contract
 * New funds available _Pending!_ \(10%\) and each day following for the next 224 days. To transfer any available funds, you must follow the withdrawal process \(pull strategy\).
 
 {% hint style="warning" %}
-If you have already setup MetaMask, skip to the [Manual Instructions](manual-instruction-private-investors#manual-instructions-use-etherscan-to-transfer-latam-to-your-wallet)
+If you have already setup MetaMask, skip to the [Manual Instructions](https://github.com/latam-blockchain/website/tree/aa4cbe03ed18dc72605b2e788c28cc7666804e10/latam/latam-token/get-latam/manual-instruction-private-investors/README.md#manual-instructions-use-etherscan-to-transfer-latam-to-your-wallet)
 {% endhint %}
 
 ## MetaMask
 
 {% hint style="info" %}
-If using a hardware wallet to store your tokens \(Ledger, Trezor\) you can connect it to MetaMask rather than importing your account.  Connecting MetaMask instructions: [https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet](https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet)
+If using a hardware wallet to store your tokens \(Ledger, Trezor\) you can connect it to MetaMask rather than importing your account. Connecting MetaMask instructions: [https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet](https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet)
 {% endhint %}
 
 1\) Import your account to MetaMask. This is the account you used to obtain LATAM as an Advisor or Private Investor. You can use the private key or JSON file to import \(or Connect Hardware Wallet\).
@@ -53,9 +51,9 @@ c\) Click **Add Tokens** to add to your wallet view. You will have 0 LATAM token
 ## Manual Instructions: Use Etherscan to transfer LATAM to your wallet
 
 4\) Go to the following address on Etherscan.  
-[https://rinkeby.etherscan.io/address/0x919203a7Ae3dCD123648E5072787B664bfeb153F#writeContract ](https://rinkeby.etherscan.io/address/0x919203a7Ae3dCD123648E5072787B664bfeb153F#writeContract) 
+[https://rinkeby.etherscan.io/address/0x919203a7Ae3dCD123648E5072787B664bfeb153F\#writeContract ](https://rinkeby.etherscan.io/address/0x919203a7Ae3dCD123648E5072787B664bfeb153F#writeContract)
 
-5\) Connect MetaMask. Click on **Connect to Web3** and click **Connect**  on the MetaMask popup. 
+5\) Connect MetaMask. Click on **Connect to Web3** and click **Connect** on the MetaMask popup.
 
 ![](../../../.gitbook/assets/contract1%20%282%29.png)
 
@@ -70,7 +68,7 @@ c\) Click **Add Tokens** to add to your wallet view. You will have 0 LATAM token
 ![](../../../.gitbook/assets/mm-confirm.png)
 
 {% hint style="warning" %}
-**Note**: If transaction fails, see the [unlock instructions]() below
+**Note**: If transaction fails, see the [unlock instructions](manual-instructions-private-investors.md) below
 {% endhint %}
 
 8\) Click **View your transaction** to see transaction details
@@ -85,7 +83,7 @@ Once the transaction is processed, you should see your LATAM token amount in Met
 
 ### **Unlock Instructions**
 
-* Go to the following address on Etherscan: [https://rinkeby.etherscan.io/address/0x5e78376F198C423CBC68F89d0D3f2BF04b610f87#writeContract](https://rinkeby.etherscan.io/address/0x5e78376F198C423CBC68F89d0D3f2BF04b610f87#writeContract)
+* Go to the following address on Etherscan: [https://rinkeby.etherscan.io/address/0x5e78376F198C423CBC68F89d0D3f2BF04b610f87\#writeContract](https://rinkeby.etherscan.io/address/0x5e78376F198C423CBC68F89d0D3f2BF04b610f87#writeContract)
 * Connect MetaMask. Click on **Connect to Web3** and click **Connect** on the Metamask popup.
 * In Etherscan, find **makeInstallment** point, enter in **3** in **\_pool** text box, and then press the **Write** button:
 

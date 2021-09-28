@@ -1,8 +1,7 @@
-# Add LATAM to Metamask
+# Add STAKE to MetaMask
+
 {% hint style="warning" %}
-
 LATAM is only on Rinkeby testnet by now, you can ask in our discord server the release dates for Ethereum mainnet or if you are interested in participating in the private rounds or public offer [Discord Server](https://discord.gg/TncBuWdY6B)
-
 {% endhint %}
 
 ## On Ethereum Mainnet
@@ -33,6 +32,4 @@ The LATAM address on Latam-Blockchain is different from the LATAM address on Eth
 
 1. Connect your MetaMask instance to Latam-Blockchain.[ Instructions on adding a custom RPC are available here if needed](../../../for-users/wallets/metamask/metamask-setup.md).
 2. LATAM Token Address on Latam-Blockchain: [0xeB5bAB615d63C6980B2b24Fa5C99E11f3bCB79a8](https://explorer.latam-blockchain.com/tokens/0xeB5bAB615d63C6980B2b24Fa5C99E11f3bCB79a8/token-transfers)
-
-
 
