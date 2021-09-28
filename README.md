@@ -7,13 +7,13 @@ description: a USDT stable blockchain
 {% hint style="info" %}
 All the information contained here refers to the research and development stage, any reference to the Ethereum network is actually to Rinkeby _an ethereum test network_, any reference to Latam-Blockchain is about Latam-Blockchain testnet network.
 
-This document serves as a reference for decentralized development as well as determining the critical infrastructure needed, business models, tokenomics, and implementation approach to get on board with the development you can find any work in progress _WIP_ or _TODO_ tag to start with.
+This document serves as a reference for decentralized development as well as determining the critical infrastructure needed, validators incentives, tokenomics, and implementation approach to get on board with the development you can find any work in progress _WIP_ or _TODO_ tag to start with.
 
 Most information here comes from xDai docs and public repositories you can read more about xDai chain [here](https://www.xdaichain.com/)
 
 Please feel free to clone [this document repository](https://github.com/latam-blockchain/website/tree/EN) and summit any change via pull request to us.
 
-To follow the development you can go direcly to the [roadmap here](about-latam-blockchain/roadmap.md) or join our [discord server](https://discord.gg/TncBuWdY6B), we speak Spanish too!
+To follow the development you can go directly to the [roadmap here](about-latam-blockchain/roadmap.md) or join our [discord server](https://discord.gg/TncBuWdY6B), we speak Spanish too!
 {% endhint %}
 
 ## Latam-Blockchain The USDT Stable Chain
