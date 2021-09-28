@@ -27,10 +27,10 @@ Participar en la red Resil de Latam-Blockchain te ayudará a experimentar y crea
 * ✅ Compatible con contratos inteligentes de Ethereum y demás cadenas _EVM_.
 * ✅ Soporte en castellano y equipo de desarrollo local.
 * ✅ Desarrollo basado a partir de proyectos solidos y estables como:
- * [POA](https://www.poa.network/)
- * [xDai](https://www.xdaichain.com/)
- * [TokenBridge](https://docs.tokenbridge.net/)
- * [Blockscout](https://docs.blockscout.com/)
+  * [POA](https://www.poa.network/)
+  * [xDai](https://www.xdaichain.com/)
+  * [TokenBridge](https://docs.tokenbridge.net/)
+  * [Blockscout](https://docs.blockscout.com/)
 
 ## Sobre nuestro Logo
 

@@ -2,7 +2,7 @@
 description: Como obtener monedas de prueba para interactuar con la red?
 ---
 
-# Como obtener monedas de prueba?
+# Monedas de prueba
 
 1 \) Visita el [faucet](https://faucet.latam-blockchain.com) de Latam-Blockchain y clic en _Conectar Monedero_
 
@@ -17,7 +17,4 @@ _Si estas usando tu Dispositivo móvil clic en WalletConnet y no en Metamask_
 3 \) Click en _Recibir_ y se realizara la transacción con los fondos de prueba
 
 ![](../../.gitbook/assets/faucet.gif)
-
-
-
 

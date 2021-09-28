@@ -21,9 +21,9 @@
 * [Cliente Resil - Ejecuta un nodo cliente](para-desarrolladores/nodo-cliente-instalacion/README.md)
   * [OpenEthereum \(antiguo Parity\)](para-desarrolladores/nodo-cliente-instalacion/parity.md)
 * [Tutoriales](para-desarrolladores/tutoriales/README.md)
-  * [HolaMundo-Solidity-Remix](para-desarrolladores/tutoriales/HolaMundo-Solidity-Remix.md)
+  * [HolaMundo-Solidity-Remix](para-desarrolladores/tutoriales/holamundo-solidity-remix.md)
 
-## Contacto & Medios <a id="media"></a> (En desarrollo)
+## Contacto & Medios  \(En desarrollo\) <a id="media"></a>
 
 * [Equipo de desarrollo](media/equipo-de-desarrollo.md)
 * [Redes Sociales & Comunidad](media/redes-sociales.md)

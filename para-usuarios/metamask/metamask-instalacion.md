@@ -1,6 +1,10 @@
 ---
-description: Como Instalar el monedero/cartera Metamask en tu computador, dispositivo móvil o teléfono y crear tu primer monedero digital?
+description: >-
+  Como Instalar el monedero/cartera Metamask en tu computador, dispositivo móvil
+  o teléfono y crear tu primer monedero digital?
 ---
+
+# Instalacion
 
 1 \) Visita [Instala MetaMask para Chrome, Firefox, Opera, iOS & Android](https://metamask.io/download.html)
 
@@ -18,13 +22,13 @@ En este ejemplo usamos el navegador firefox en pc.
 
 ![](../../.gitbook/assets/metamask-firefox-install-1.gif)
 
-5 \) Clic en _I Agree_ 
+5 \) Clic en _I Agree_
 
-6 \) En la página _Create Password_,  introduce una clave para tu monedero en el campo  _New password (min 8 chars)_ , mínimo 8 caracteres!.
+6 \) En la página _Create Password_, introduce una clave para tu monedero en el campo _New password \(min 8 chars\)_ , mínimo 8 caracteres!.
 
 7 \) Repite la clave nueva en el campo _Confirm password_
 
-8 \) Acepta los términos de uso haciendo clic en el recuadro _ I have read and agree to the Terms of Use _
+8 \) Acepta los términos de uso haciendo clic en el recuadro  _I have read and agree to the Terms of Use_ 
 
 9 \) Clic en _Create_
 
@@ -32,14 +36,14 @@ En este ejemplo usamos el navegador firefox en pc.
 
 10 \) En la página de _Secure your wallet_ clic en _Next_
 
-11 \) En la página de _Secret Backup Phrase_ clic en _ CLICK HERE TO REVEAL SECRET WORDS_
+11 \) En la página de _Secret Backup Phrase_ clic en  _CLICK HERE TO REVEAL SECRET WORDS_
 
 {% hint style="info" %}
 Para este ejemplo la frase de seguridad es _"release cloud shoot anger key picture credit punch verify isolate deposit shoot"_ , en tu instalación sera diferente.
 {% endhint %}
 
 {% hint style="warning" %}
-ADVERTENCIA!!!!: Nunca muestres a un tercero la frase secreta o palabras de respaldo (las 12 palabras en ingles que te muestra al hacer clic en _ CLICK HERE TO REVEAL SECRET WORDS _). Cualquiera con esta frase puede tener acceso a tus fondos.
+ADVERTENCIA!!!!: Nunca muestres a un tercero la frase secreta o palabras de respaldo \(las 12 palabras en ingles que te muestra al hacer clic en  _CLICK HERE TO REVEAL SECRET WORDS_ \). Cualquiera con esta frase puede tener acceso a tus fondos.
 
 Almacena la frase anterior en un lugar seguro, escritas a mano preferiblemente, dicha frase o palabras de respaldo sirven para recuperar tu monedero en cualquier otro dispositivo y tener acceso a tus fondos.
 
@@ -47,16 +51,16 @@ El orden en que se muestran las palabras es importante, respalda las palabras co
 
 Recuerda, ser tu propio banco requiere responsabilidad!, oculta, cuida y respalda tu monedero...
 
-_WIP_ agregar tutorial para importar/re establecer  un monedero a partir de la frase de seguridad. 
+_WIP_ agregar tutorial para importar/re establecer un monedero a partir de la frase de seguridad.
 {% endhint %}
 
-12 \) lee la advertencia anterior nuevamente. 
+12 \) lee la advertencia anterior nuevamente.
 
 13 \) Clic en _Next_
 
-14 \) En la página _Confirm your Secret Backup Phrase _, confirma que estas en custodia tu frase de recuperación, haz clic en cada una de las palabras de tu frase de respaldo en el orden correcto.
+14 \) En la página _Confirm your Secret Backup Phrase_ , confirma que estas en custodia tu frase de recuperación, haz clic en cada una de las palabras de tu frase de respaldo en el orden correcto.
 
-15 \) Clic _Confirm_ y luego clic _All Done_ y cierra el aviso informativo que te aparece en pantalla. Tu monedero metamask ya esta creado y conectado por defecto a la red de _Ethereum_, 
+15 \) Clic _Confirm_ y luego clic _All Done_ y cierra el aviso informativo que te aparece en pantalla. Tu monedero metamask ya esta creado y conectado por defecto a la red de _Ethereum_,
 
 ![](../../.gitbook/assets/metamask-firefox-install-3.gif)
 

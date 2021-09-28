@@ -2,7 +2,7 @@
 description: Como configurar tu Metamask para Latam-Blockchain?
 ---
 
-# Configuración
+# Configuracion
 
 ## Configuración automática
 
@@ -18,7 +18,7 @@ _Este método no agrega el explorador de bloques a tu Metamask_
 
 2 \) Busca _Resil_ en el campo _Search Networks_
 
-3 \) En la red _Resil_ clic en _Connect Wallet_ 
+3 \) En la red _Resil_ clic en _Connect Wallet_
 
 4 \) En el Metamask clic en _Next_ y despues clic en _Connect_
 
@@ -37,9 +37,9 @@ _Este método no agrega el explorador de bloques a tu Metamask_
 2 \) En el menú desplegable clic en _Settings_
 
 {% hint style="info" %}
-_Si estas usando Metamask desde el computador _Settings_ se encuentra haciendo clic en la imagen circular en la parte superior derecha_
+_Si estas usando Metamask desde el computador \_Settings_ se encuentra haciendo clic en la imagen circular en la parte superior derecha\_
 
-_Si estas usando Metamask desde tu dispositivo móvil _Settings_ se encuentra en el menú desplegable en la parte superior izquierda_
+_Si estas usando Metamask desde tu dispositivo móvil \_Settings_ se encuentra en el menú desplegable en la parte superior izquierda\_
 {% endhint %}
 
 3 \) Clic en _Networks_
@@ -50,11 +50,11 @@ _Si estas usando Metamask desde tu dispositivo móvil _Settings_ se encuentra en
 
 5 \) Agregar la siguiente información de la red:
 
-Network Name:        ` Resil Testnet `  
-New RPC URL:         ` https://rpc.latam-blockchain.com `  
-Chain ID:            ` 172 `  
-Currency Symbol:     ` USD `  
-Block Explorer URL:  ` https://explorer.latam-blockchain.com `
+Network Name: `Resil Testnet`  
+New RPC URL: `https://rpc.latam-blockchain.com`  
+Chain ID: `172`  
+Currency Symbol: `USD`  
+Block Explorer URL: `https://explorer.latam-blockchain.com`
 
 ![](../../.gitbook/assets/network.png)
 
