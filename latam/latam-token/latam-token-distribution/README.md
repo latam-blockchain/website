@@ -4,6 +4,11 @@ description: Supply and release schedule
 
 # LATAM Token Distribution
 
+{% hint style="warning" %}
+LATAM is only on Rinkeby testnet by now, you can ask in our discord server the release dates for Ethereum mainnet or if you are interested in participating in the private rounds or public offer [Discord Server](https://discord.gg/TncBuWdY6B), all contracts showed here may change.
+{% endhint %}
+
+
 The LATAM token has an initial circulating supply of 8,537,500. Additional LATAM tokens are minted as staking rewards \(15% of staked tokens\).
 
 ![](../../../.gitbook/assets/distrubution-chart.png)
