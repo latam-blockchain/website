@@ -2,9 +2,9 @@
 description: Supply and release schedule
 ---
 
-# STAKE Token Distribution
+# LATAM Token Distribution
 
-The STAKE token has an initial circulating supply of 8,537,500. Additional STAKE tokens are minted as staking rewards \(15% of staked tokens\).
+The LATAM token has an initial circulating supply of 8,537,500. Additional LATAM tokens are minted as staking rewards \(15% of staked tokens\).
 
 ![](../../../.gitbook/assets/distrubution-chart.png)
 

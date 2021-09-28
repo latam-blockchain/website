@@ -23,6 +23,7 @@
     * [Manual Instructions - Private Investors](latam/latam-token/get-latam/manual-instructions-private-investors.md)
     * [Manual Instructions - Advisors](latam/latam-token/get-latam/manual-instructions-advisors.md)
     * [Add STAKE to MetaMask](latam/latam-token/get-latam/add-latam-to-metamask.md)
+  * [LATAM Token Distribution](latam/latam-token/latam-token-distribution/README.md)
 
 ## For Developers
 
