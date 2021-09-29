@@ -5,7 +5,7 @@ description: >-
   mercado Latino Americano
 ---
 {% hint style="warning" %}
-Este documento no esta actualizado, se migro de Prueba de Autoridad a la implementacion POSDAO de POA en pro de lograr la descentralización de la cadena de bloques, para mas informacion usar la version en [ingles](https://latam-blockchain.gitbook.io/latam-blockchain/v/EN/). 
+Este documento no esta actualizado, se migro de Prueba de Autoridad a la implementacion POSDAO de POA en pro de lograr la descentralización de la cadena de bloques, para mas informacion usar la version en [ingles](https://latam-blockchain.gitbook.io/latam-blockchain/v/EN/) o en nuestro [servidor de Discord](https://discord.gg/TncBuWdY6B) 
 {% endhint %}
 
 
