@@ -45,7 +45,7 @@ While secure, there are considerations to keep in mind. It is possible that mali
 
 This means that during the reveal phase, a validator can effectively choose between 2 numbers, either the current number or the new one that will be created when they reveal their number. If an application uses the final number of the reveals phase, only the final validator can make this choice, limiting the scope of this issue.
 
-To discourage skipping, validators who skip too often \(or skip at the end of an epoch\) will be reported as malicious. In POSDAO, malicious validators are banned from the protocol for 90 days and their STAKE frozen.
+To discourage skipping, validators who skip too often \(or skip at the end of an epoch\) will be reported as malicious. In POSDAO, malicious validators are banned from the protocol for 90 days and their LATAM frozen.
 
 ## Will on-chain, unpredictable random numbers per block be available in the future? <a id="will-on-chain-unpredictable-random-numbers-per-block-be-available-in-the-future"></a>
 

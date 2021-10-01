@@ -42,7 +42,7 @@ Latam-Blockchain is a stable payments EVM \(Ethereum Virtual Machine\) blockchai
     <tr>
       <td style="text-align:left"><b>Stability</b>
       </td>
-      <td style="text-align:left">Stable to USD</td>
+      <td style="text-align:left">Stable to USDT</td>
       <td style="text-align:left">Volatile / Market Driven</td>
     </tr>
   </tbody>

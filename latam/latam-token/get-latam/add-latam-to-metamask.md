@@ -1,4 +1,4 @@
-# Add STAKE to MetaMask
+# Add LATAM to MetaMask
 
 {% hint style="warning" %}
 LATAM is only on Rinkeby testnet by now, you can ask in our discord server the release dates for Ethereum mainnet or if you are interested in participating in the private rounds or public offer [Discord Server](https://discord.gg/TncBuWdY6B)

@@ -5,7 +5,7 @@ description: For Staking Utility and Governance
 # LATAM Token
 
 {% hint style="success" %}
-STAKE token address on Ethereum [0x886714772777465613959d35C36d84bb3b5FfB0b](https://rinkeby.etherscan.io/token/0x886714772777465613959d35C36d84bb3b5FfB0b)
+LATAM token address on Ethereum [0x886714772777465613959d35C36d84bb3b5FfB0b](https://rinkeby.etherscan.io/token/0x886714772777465613959d35C36d84bb3b5FfB0b)
 
 LATAM token address on Latam-Blockchain  
 [0xeB5bAB615d63C6980B2b24Fa5C99E11f3bCB79a8](https://explorer.latam-blockchain.com/tokens/0xeB5bAB615d63C6980B2b24Fa5C99E11f3bCB79a8/token-transfers)

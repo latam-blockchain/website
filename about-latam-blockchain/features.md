@@ -26,11 +26,11 @@ Latam-Blockchain supports low-cost, stable transactions for projects and users. 
 
 ## On-Chain Randomness
 
-Using a RANDAO-based Random Number Generator, validators on Latam-Blockchain produce random numbers used for validator selection. These random seeds are also available for usage by contracts deployed to xDai. This allows for true on-chain randomness, eliminating the need to rely on a centralized service or 3rd party application. More information on how the Latam-Blockchain RNG works is [available here](https://github.com/latam-blockchain/website/tree/cfe5a1b5c5310c6d8e0379d2f4d7ed509ffd738a/for-developers/on-chain-random-numbers/README.md).
+Using a RANDAO-based Random Number Generator, validators on Latam-Blockchain produce random numbers used for validator selection. These random seeds are also available for usage by contracts deployed to Latam-Blockchain. This allows for true on-chain randomness, eliminating the need to rely on a centralized service or 3rd party application. More information on how the Latam-Blockchain RNG works is [available here](https://github.com/latam-blockchain/website/tree/cfe5a1b5c5310c6d8e0379d2f4d7ed509ffd738a/for-developers/on-chain-random-numbers/README.md).
 
 ## POSDAO Green Consensus
 
-The xDai Stable Chain uses a delegated Proof of Stake \(DPOS\) consensus mechanism called POSDAO. The [POSDAO white paper](https://github.com/latam-blockchain/website/tree/cfe5a1b5c5310c6d8e0379d2f4d7ed509ffd738a/for-validators/posdao-whitepaper.md) describes all aspects of this new consensus protocol including a complete overview of the theory, rationale, security, and a detailed implementation section.
+Latam-Blockchain uses a delegated Proof of Stake \(DPOS\) consensus mechanism called POSDAO. The [POSDAO white paper](https://github.com/latam-blockchain/website/tree/cfe5a1b5c5310c6d8e0379d2f4d7ed509ffd738a/for-validators/posdao-whitepaper.md) describes all aspects of this new consensus protocol including a complete overview of the theory, rationale, security, and a detailed implementation section.
 
 ## Bridges to Ethereum
 

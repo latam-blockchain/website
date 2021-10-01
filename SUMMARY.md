@@ -22,7 +22,12 @@
     * [Claim LATAM: Private Investors & Advisors](latam/latam-token/get-latam/claim-latam.md)
     * [Manual Instructions - Private Investors](latam/latam-token/get-latam/manual-instructions-private-investors.md)
     * [Manual Instructions - Advisors](latam/latam-token/get-latam/manual-instructions-advisors.md)
-    * [Add STAKE to MetaMask](latam/latam-token/get-latam/add-latam-to-metamask.md)
+    * [Add LATAM to MetaMask](latam/latam-token/get-latam/add-latam-to-metamask.md)
+  * [LATAM Token Contracts](latam/latam-token/latam-token-contracts.md)
+  * [LATAM Reward Mechanics](latam/latam-token/latam-reward-mechanics/README.md)
+    * [Staking Rewards Comparison](latam/latam-token/latam-reward-mechanics/staking-rewards-comparison.md)
+    * [Dual Token Model Explainer](latam/latam-token/latam-reward-mechanics/dual-token-model.md)
+    * [Rewards in a Dual Token Environment](latam/latam-token/latam-reward-mechanics/rewards-in-a-dual-token-environment.md)
   * [LATAM Token Distribution](latam/latam-token/latam-token-distribution/README.md)
 
 ## For Developers
